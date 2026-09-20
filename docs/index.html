@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>陶思言 Siyan Tao — Urban Data Portfolio</title>
+  <meta name="description" content="陶思言 Siyan Tao 的 UCL 城市空间科学项目作品集：数据分析、GIS、交通网络与城市建模。">
+  <meta name="theme-color" content="#142e37">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#projects">跳转到项目 / Skip to projects</a>
+  <header class="header wrap">
+    <a class="brand" href="#top" aria-label="Siyan Tao home"><span class="brand-mark">st<span>↗</span></span><span>SIYAN TAO<span class="brand-sub">URBAN DATA PORTFOLIO</span></span></a>
+    <nav aria-label="主导航"><a href="#projects" data-zh="项目" data-en="Projects">项目</a><a href="#about" data-zh="关于我" data-en="About">关于我</a><a href="https://github.com/Taoo2025" target="_blank" rel="noopener noreferrer">GitHub ↗</a><button class="lang" id="language" type="button" aria-label="Switch to English">EN</button></nav>
+  </header>
+  <main id="top">
+    <section class="hero wrap">
+      <div class="hero-copy">
+        <div class="eyebrow"><span class="status-dot"></span> UCL · MSc Urban Spatial Science</div>
+        <h1 data-zh="用数据理解城市，<br><em>让分析走向决策。</em>" data-en="Reading cities.<br><em>Making data matter.</em>">用数据理解城市，<br><em>让分析走向决策。</em></h1>
+        <p class="intro" data-zh="我是陶思言，关注数据分析与空间分析。从消防响应、交通可达性到零售选址，我把复杂的城市问题转化为可解释的模型和可交互的地图。" data-en="I’m Siyan Tao, an urban data analyst. From emergency response and transport accessibility to retail location, I turn complex urban questions into interpretable models and interactive maps.">我是陶思言，关注数据分析与空间分析。从消防响应、交通可达性到零售选址，我把复杂的城市问题转化为可解释的模型和可交互的地图。</p>
+        <div class="hero-actions"><a class="button primary" href="#projects" data-zh="浏览项目 <span>↓</span>" data-en="Explore my work <span>↓</span>">浏览项目 <span>↓</span></a><a class="text-link" href="https://taoo2025.github.io/CASA0029/" target="_blank" rel="noopener noreferrer" data-zh="打开交互地图 ↗" data-en="Launch live map ↗">打开交互地图 ↗</a></div>
+        <div class="hero-foot"><span>01 / DATA ANALYTICS</span><span>02 / GIS & SPATIAL MODELLING</span></div>
+      </div>
+      <figure class="hero-map">
+        <div class="map-top"><span>LONDON / ACCESSIBILITY ATLAS</span><span>51.5072° N</span></div>
+        <img src="assets/london-accessibility.webp" width="1500" height="1100" alt="基于项目数据绘制的伦敦 LSOA 公共交通可达性指数分布图" fetchpriority="high">
+        <figcaption><div><span class="map-index">4,994</span><span data-zh="个 LSOA 分析单元" data-en="LSOA analysis areas">个 LSOA 分析单元</span></div><div class="map-legend"><span data-zh="平均可达性指数" data-en="Mean accessibility index">平均可达性指数</span><div class="gradient"></div><span>0 <i>40+</i></span></div></figcaption>
+        <div class="map-source" data-zh="项目数据 · LSOA 均值概览 · 非实时地图" data-en="Project data · LSOA-level overview · Not real-time">项目数据 · LSOA 均值概览 · 非实时地图</div>
+      </figure>
+    </section>
+    <div class="discipline-strip"><div class="wrap"><span data-zh="从问题到证据" data-en="FROM QUESTION TO EVIDENCE">从问题到证据</span><span>Python / R</span><span>GeoPandas / GIS</span><span>Statistical modelling</span><span>Interactive maps</span></div></div>
+    <section class="wrap section" id="projects">
+      <div class="section-heading"><div><span class="eyebrow">SELECTED WORK / 2025–2026</span><h2 data-zh="硕士项目精选" data-en="Selected projects">硕士项目精选</h2></div><p data-zh="四个切面，理解城市系统如何运行。" data-en="Four perspectives on how urban systems work.">四个切面，理解城市系统如何运行。</p></div>
+      <div class="filters" role="group" aria-label="筛选项目"><button class="filter active" data-filter="all" aria-pressed="true" data-zh="全部项目" data-en="All projects">全部项目</button><button class="filter" data-filter="data" aria-pressed="false" data-zh="数据分析" data-en="Data analytics">数据分析</button><button class="filter" data-filter="gis" aria-pressed="false" data-zh="GIS / 空间分析" data-en="GIS / Spatial">GIS / 空间分析</button><button class="filter" data-filter="web" aria-pressed="false" data-zh="交互可视化" data-en="Interactive">交互可视化</button></div>
+      <div class="project-grid" id="project-grid"></div>
+      <noscript><p>请启用 JavaScript 查看项目详情，或直接浏览 <a href="https://github.com/Taoo2025">GitHub 项目仓库</a>。</p></noscript>
+      <p class="result-count" id="result-count" aria-live="polite"></p>
+    </section>
+    <section class="more-work wrap section" id="more"><div class="section-heading"><div><span class="eyebrow">FURTHER EXPLORATIONS</span><h2 data-zh="更多研究与实践" data-en="Further explorations">更多研究与实践</h2></div><p data-zh="从预测模型到多主体模拟，拓展分析边界。" data-en="From predictive models to agent-based simulation.">从预测模型到多主体模拟，拓展分析边界。</p></div><div id="other-projects"></div></section>
+    <section class="about-band" id="about"><div class="wrap about-grid"><div><span class="eyebrow">ABOUT / SIYAN TAO</span><h2 data-zh="连接数据、<br>空间与真实问题。" data-en="Connecting data,<br>place and purpose.">连接数据、<br>空间与真实问题。</h2><p data-zh="城市空间科学硕士，具备地理与规划背景。希望将多源数据处理、统计建模与空间可视化能力应用于数据分析、商业分析和 GIS 岗位。" data-en="An Urban Spatial Science graduate with a geography and planning background, seeking opportunities in data analytics, business analytics and GIS.">城市空间科学硕士，具备地理与规划背景。希望将多源数据处理、统计建模与空间可视化能力应用于数据分析、商业分析和 GIS 岗位。</p><a class="button light" href="https://github.com/Taoo2025" target="_blank" rel="noopener noreferrer" data-zh="在 GitHub 找到我 ↗" data-en="Find me on GitHub ↗">在 GitHub 找到我 ↗</a></div><div class="about-details"><h3 data-zh="教育背景" data-en="Education">教育背景</h3><div class="education"><span>2025 — 2026</span><strong>University College London</strong><p>MSc Urban Spatial Science · CASA</p></div><div class="education"><span>2021 — 2025</span><strong data-zh="北京师范大学" data-en="Beijing Normal University">北京师范大学</strong><p data-zh="人文地理与城乡规划" data-en="Human Geography & Urban–Rural Planning">人文地理与城乡规划</p></div><h3 data-zh="项目中使用的技能" data-en="Tools used in my work">项目中使用的技能</h3><div class="skills"><span>Python · pandas · R</span><span>GeoPandas · QGIS · ArcGIS</span><span>OLS · Mixed-effects models</span><span>NetworkX · Spatial interaction</span><span>Mapbox GL JS · JavaScript</span><span>NetLogo · Agent-based modelling</span></div></div></div></section>
+  </main>
+  <footer class="wrap"><span>© 2026 Siyan Tao</span><p data-zh="课程与研究作品集。模型结果需结合数据范围与研究假设解读。" data-en="Academic & research portfolio. Interpret findings within their data scope and assumptions.">课程与研究作品集。模型结果需结合数据范围与研究假设解读。</p><a href="#top" data-zh="返回顶部 ↑" data-en="Back to top ↑">返回顶部 ↑</a></footer>
+  <dialog id="case-dialog" aria-labelledby="case-title"><button class="close-dialog" type="button" aria-label="关闭 / Close">×</button><div id="case-content"></div></dialog>
+</body>
+</html>
