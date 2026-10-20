@@ -1,9 +1,7 @@
-# Siyan Tao · Urban Data Portfolio
+# Siyan Tao — MSc coursework reports
 
-A bilingual portfolio of MSc Urban Spatial Science work by Siyan Tao, built as a static site for GitHub Pages.
+Simple course directory and report archive.
 
-Projects cover fire service response variability, London transit accessibility and disruption, Underground network resilience and supermarket siting, retail geography and deprivation, collision severity, agent-based modelling, and short-term rental geography.
+Website: https://taoo2025.github.io/
 
-The published site is in [`docs/`](docs/). It uses no build system or third-party runtime. The figures are aggregate outputs from the underlying projects; the fire service site does not include raw incident records.
-
-To preview locally, serve the `docs` directory with any static HTTP server. Project repository and live map links are available directly on the site.
+Static GitHub Pages site in docs/. Report pages preserve original text and extracted figures. Source PDF links are provided where available; extraction may affect table and formula layout. CASA0005 is excluded pending confirmation that its report is suitable for public release.

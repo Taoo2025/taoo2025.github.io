@@ -1,0 +1,35 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>英国零售业态与便利店占比交互地图 · Siyan Tao</title><link rel="stylesheet" href="../styles.css"></head><body><a class="skip" href="#content">跳到正文</a><header><p>陶思言 · Siyan Tao</p><h1>英国零售业态与便利店占比交互地图</h1><p>UCL · MSc Urban Spatial Science</p><nav><a href="../index.html">课程目录</a><a href="https://github.com/Taoo2025">GitHub</a></nav></header><main id="content"><p class="intro">个人作业：按品牌和地方行政区探索零售门店分布，结合图表与交互地图展示便利店占比。</p><p><a href="https://github.com/Taoo2025/CASA0029/tree/portfolio/assessment1-retail">网站源文件 ↗</a> · <a href="https://taoo2025.github.io/CASA0029/assessment1-retail/">交互地图 ↗</a></p><p class="note">以下为本地提交报告的完整文字。交互地图入口需对应仓库分支发布后可用。</p><section class="report-page">Individual Visualisation Assessment 1, Student Number: 25063842
+
+Distribution of Retail Formats and Convenience Store Ratio Interactive Map 2025
+
+Overview
+
+This visualisation project presents an interactive geospatial analysis of the retail landscape across the United Kingdom, focusing specifically on the spatial dichotomy between convenience stores and superstores(Lu et al., 2023). The study integrates high-resolution retailer point data from Geolytix with official Local Authority District (LAD) boundaries sourced from the UK government&#x27;s Open Geography Portal.
+
+This visualization website facilitates data exploration and comprehension by presenting information through visual charts and interactive maps. Map data has been cropped to administrative districts. By employing varying saturation levels within a unified color palette, it clearly illustrates the distribution patterns of supermarkets and convenience stores operated by six UK retailers specializing in convenience store operations (Savills UK, 2025). The map supports viewing specific convenience store counts by area, switching to display convenience store distribution percentages across broader regions, and features interactive hover and click-to-freeze functions for comparative analysis(Gamlen, Goodwin and Ho, 2025).
+
+Figure 1: Distribution of Retail Formats map at Local Authority Scale
+
+Figure 2: Distribution of Convenience Store Ratio map at Local Authority Scale
+
+Technical Aspects: Mapbox and Data Scales
+
+Retailer data was cleaned using Python to identify all convenience store operators in London. Precise distribution counts were calculated by borough, followed by density calculations after merging areas.Map data underwent preprocessing in QGIS, linking store-level addresses with local authority boundaries.
+
+The interactive map was built with Mapbox, incorporating processed retailer and map data. The base map was designed in Mapbox Studio, with linear zooming applied to both point and polygon data for optimized visual experience. Hover interactions were implemented using Mapbox GL JS, incorporating an invisible overlay layer beneath the base map to detect hover events. The legend updates dynamically with each hover, and clicking locks the hover toggle for viewing. The retailer data is illustrated below:
+
+Cartographic AspectsRetail outlet data selects brand colors, such as Tesco&#x27;s recognizable blue, with varying saturation levels to distinguish superstores from convenience stores, enhancing visual recognition. This design reflects the trend toward convenience store dominance in London&#x27;s retail market. The color scheme originates from Gemini&#x27;s recommendations and is implemented via Mapbox. The base map uses a gray-white palette to improve contrast with the map data. And the legend clearly labels data sources and defines the meaning of different data categories.
+
+Limitations and Improvements
+
+Establishing a time series would better illustrate how London&#x27;s convenience store trend has evolved. Given the limited timeframe and data processing constraints of this project, future work could process a decade&#x27;s worth of retailer location data to achieve a more comprehensive long-term visualization experience.
+
+Reference
+
+Gamlen, A., Goodwin, S. and Ho, X. (2025) ‘Variable Mapper: Developing, Implementing, and Evaluating an Online Tool for Multidimensional Spatial Data Visualization’, Journal of Geovisualization and Spatial Analysis, 9(1), p. 18. 
+
+Lu, C. et al. (2023) ‘Spatial Distribution Characteristics and Influencing Factors on the Retail Industry in the Central Urban Area of Lanzhou City at the Scale of Daily Living Circles’, ISPRS International Journal of Geo-Information, 12(8). 
+
+Spotlight: UK Grocery Report – 2025. Available at: https://www.savills.co.uk/research_articles/229130/379213-0.
+
+AI Statement: While editing the program, AI was used to modify the code. The website design concept and article writing were both completed by myself.</section></main><footer>课程作业原文展示 · 报告保留原提交语言</footer></body></html>
