@@ -1,0 +1,6 @@
+import {useEffect} from 'react';
+import {MapContainer,TileLayer,CircleMarker,Popup,Polyline,useMap} from 'react-leaflet';
+import 'leaflet/dist/leaflet.css';
+function Bounds({facilities}){const map=useMap();useEffect(()=>{if(facilities.length)map.fitBounds(facilities.map(f=>[f.coordinates[1],f.coordinates[0]]),{padding:[20,20],maxZoom:12})},[facilities,map]);return null}
+export default function ReferralMap({facilities,onSelectFacility,route}){return <main className="map-container"><MapContainer center={[9.07,7.4]} zoom={10} style={{width:'100%',height:'100%',minHeight:500}}><TileLayer attribution="© OpenStreetMap contributors" url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"/><Bounds facilities={facilities}/>{route && <Polyline positions={route.geometry.map(([x,y])=>[y,x])} pathOptions={{color:"#dd6b20",weight:5}}/>}{facilities.map(f=><CircleMarker key={f.id} center={[f.coordinates[1],f.coordinates[0]]} radius={6} eventHandlers={{click:()=>onSelectFacility(f)}}><Popup><strong>{f.name}</strong><p>{f.category} / {f.facilityTypeCode}</p><p>{f.division} / {f.district}</p><p>原始登记状态：{f.reportedStatus}（非实时接诊状态）</p><p>原始时间戳：{f.sourceTimestamp||'未知'}</p><p>服务能力：未知</p><p>来源：{f.source}</p></Popup></CircleMarker>)}</MapContainer></main>}
+
