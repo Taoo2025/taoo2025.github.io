@@ -411,3 +411,6 @@ button:focus-visible,a:focus-visible,select:focus-visible,input:focus-visible {o
 .workbench-actions{display:flex;flex-wrap:wrap;gap:12px;align-items:center;} .workbench-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-bottom:12px;}
 .workbench-grid input,.workbench-grid select,.data-workbench textarea{display:block;width:100%;padding:8px;box-sizing:border-box;} .data-workbench button{padding:8px 12px;margin:6px 8px 6px 0;}
 @media(max-width:650px){.workbench-grid{grid-template-columns:1fr;}}
+
+.app-shell{grid-template-rows:auto auto auto minmax(650px,1fr) auto;}
+.data-workbench>label{display:block;margin:10px 0}.data-workbench>label input,.data-workbench>label select{max-width:100%;padding:7px}.data-workbench article label{display:block;margin:8px 0}
