@@ -1,0 +1,23 @@
+import fs from 'node:fs/promises';
+import assert from 'node:assert/strict';
+import {pathToFileURL} from 'node:url';
+const root='E:/CASA/hackathon/hanyun-hackathon';
+// Resolve React from the project; module functions are tested from their real source.
+const runtime=await import(pathToFileURL(root+'/src/dataRuntime.js').href);
+const all=JSON.parse(await fs.readFile(root+'/public/data/nigeria_facilities_clean.json','utf8'));
+const baseline=all.filter(x=>x.division==='Fct'),first=baseline[0];
+const patch={baseCoordinates:first.coordinates,coordinates:[first.coordinates[0]+.001,first.coordinates[1]],facilityTypeCode:first.facilityTypeCode,reviewer:'test-only',reason:'contract-test-only',evidence:'test-only'};
+assert.doesNotThrow(()=>runtime.validateFacilityPatch({[first.id]:patch},baseline));
+assert.throws(()=>runtime.validateFacilityPatch({[first.id]:{...patch,coordinates:[181,9]}},baseline));
+assert.throws(()=>runtime.validateFacilityPatch({[first.id]:{...patch,reviewer:''}},baseline));
+assert.throws(()=>runtime.validateFacilityPatch({[first.id]:{...patch,baseCoordinates:[0,0]}},baseline));
+assert.equal(runtime.spatiallyChanged(baseline,{[first.id]:patch}),true);
+assert.deepEqual(runtime.applyFacilityPatch(baseline,{[first.id]:patch})[0].originalCoordinates,first.coordinates);
+const network=JSON.parse(await fs.readFile(root+'/public/data/fct_routes.json','utf8'));
+assert.equal(runtime.matchesSnapshot(baseline,network.facilitySnapshot),true);
+assert.equal(runtime.matchesSnapshot(runtime.applyFacilityPatch(baseline,{[first.id]:patch}),network.facilitySnapshot),false);
+const poly={type:'Polygon',coordinates:[[[0,0],[2,0],[2,2],[0,2],[0,0]],[[.5,.5],[1.5,.5],[1.5,1.5],[.5,1.5],[.5,.5]]]};
+assert.equal(runtime.pointInGeometry([.25,.25],poly),true);assert.equal(runtime.pointInGeometry([1,1],poly),false);assert.equal(runtime.pointInGeometry([3,3],poly),false);
+const signals=JSON.parse(await fs.readFile(root+'/public/data/dios_signals.json','utf8'));
+assert.doesNotThrow(()=>runtime.validateSignals(signals));assert.throws(()=>runtime.validateSignals([signals[0],signals[0]]));assert.throws(()=>runtime.validateSignals([{...signals[0],url:'javascript:alert(1)'}]));
+console.log('PASS: edits require evidence and known IDs; original values preserved; changed coordinates invalidate route snapshot; polygon holes; DIOS schema/duplicate/URL validation. No operational records or browser storage changed.');

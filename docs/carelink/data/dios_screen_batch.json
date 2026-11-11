@@ -1,0 +1,96 @@
+{
+  "ids": [
+    "0d4099a913fb1dae",
+    "1c196d20de0520c3",
+    "250d562525d0d311",
+    "2b39a703e1bda28e",
+    "2c2bc25ad16d03dd",
+    "2eedfe6e3aed576b",
+    "32babba56f4ea47e",
+    "46d329446af0d4d3",
+    "4e527528bcb18718",
+    "509680b01efc2db9",
+    "516b336b6aea55ff",
+    "51799f62bbf8c21c",
+    "54d3178c91a28b2e",
+    "56e80782a77392ec",
+    "5a7d6774104dcef8",
+    "5b283035469d4eee",
+    "5f41501a6ab60070",
+    "6ed97f2d63a92f81",
+    "717342a436f1213e",
+    "7236a87f36233675",
+    "77f2a4d6614581a1",
+    "7f2f5294cf94526b",
+    "84d1a308e4508bcc",
+    "8687d85b1fc44ff5",
+    "8894d52db951bf21",
+    "8df5b01cab2a5db4",
+    "8f1da50b6c8a8c9d",
+    "8f76427ad3a1fe7f",
+    "a344e6e48b338021",
+    "ab6c2e3fa9db8510",
+    "c0b527c864b8f147",
+    "c3fcdcb521acc0ae",
+    "c42df9f3481ed4d6",
+    "caa433cb2a394304",
+    "d5b76079c207ee58",
+    "d80a2643f2d33cf9",
+    "da1da5c65c192fd4",
+    "e44474110ea91955",
+    "f1b072a29a0f5158",
+    "f1e4ca13adbd4364",
+    "fe1c90a10ecd3808"
+  ],
+  "summary": {
+    "updatedAt": "2026-11-11",
+    "newBatchSize": 41,
+    "newBatchStatusCounts": {
+      "原文已读取": 39,
+      "原文不可访问": 2
+    },
+    "allCandidateCount": 50,
+    "allStatusCounts": {
+      "原文已读取": 47,
+      "原文不可访问": 3
+    },
+    "newBatchCategoryCounts": {
+      "全国政策/项目背景": 20,
+      "历史研究/统计背景": 6,
+      "FCT项目/机构线索": 4,
+      "外地区病例/治疗线索": 4,
+      "非目标个案/综合评论": 5,
+      "原文受限": 2
+    },
+    "newBatchHighPriority": 14,
+    "duplicateCandidateGroups": {
+      "CSJ-SGBV-SRHR-COMMENTARY-2021": [
+        "2b39a703e1bda28e",
+        "f1b072a29a0f5158"
+      ],
+      "ECRVS-STATE-HOUSE-2023-11-08": [
+        "250d562525d0d311",
+        "f1e4ca13adbd4364"
+      ],
+      "NAN-NHIA-OHIRI-2026-03-13": [
+        "32babba56f4ea47e",
+        "8894d52db951bf21"
+      ],
+      "NHW-WOMENS-HEALTH-2025-05-28": [
+        "4e527528bcb18718",
+        "77f2a4d6614581a1"
+      ],
+      "UNFPA-LANDSCAPE-LAUNCH-2022-09-08": [
+        "3dc9fa268bed6cf5",
+        "c42df9f3481ed4d6"
+      ]
+    },
+    "humanConfirmedLocalCases": 0,
+    "humanReviewRequired": true,
+    "scope": "FCT位置核查候选50篇；不是全部Nigeria 262篇，也不是DIOS550篇全量筛查",
+    "unresolvedArticleIds": [
+      "a344e6e48b338021",
+      "fe1c90a10ecd3808"
+    ]
+  }
+}

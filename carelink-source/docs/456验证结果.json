@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-11",
+  "status": "passed",
+  "routesValidated": 1698,
+  "boundaryFlaggedRoutes": 0,
+  "originsChangedVersusV1": 80,
+  "populationCellsValidated": 7067,
+  "populationConservation": "passed",
+  "fctFacilities": 576,
+  "routeAudit": {
+    "gatesWithoutConfirmedOpening": 905,
+    "blockedSegments": 244,
+    "regionalRestrictions": 17,
+    "supportedRestrictions": 10,
+    "unsupportedRestrictions": 7,
+    "blockedNodes": 227,
+    "restrictedJunctions": 8,
+    "snappedFacilities": 574,
+    "originsWithRoutes": 566,
+    "routes": 1698
+  },
+  "browserChecks": [
+    "LGA Abaji: 47 hospitals",
+    "WorldPop layer and summary",
+    "Cross-LGA higher-level candidates",
+    "gzip/JSON response compatibility",
+    "Article deep link and existing location evidence",
+    "Reject case aggregation without required geographic evidence"
+  ]
+}

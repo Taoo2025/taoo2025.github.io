@@ -1,0 +1,526 @@
+{
+  "reviewedAt": "2026-11-11",
+  "scope": "6 flagged FCT registry facilities",
+  "boundarySource": "https://www.arcgis.com/home/item.html?id=45cd2ef592094d12aca43113a90a6054",
+  "boundaryLicense": "CC BY-SA 4.0, CIESIN/GRID3; operational boundaries pending government validation",
+  "facilitySource": "https://data.humdata.org/dataset/nigeria-health-facilities",
+  "coordinateCorrectionsApplied": 0,
+  "externalReferenceUse": "公开地址/地名仅作核查佐证；项目运行机构、坐标仍使用组委会HDX原始数据。HMO层级/服务未导入临床字段。政府PDF当前404已注明，不声称本次读到原PDF。",
+  "facilities": [
+    {
+      "facilityId": "ab941e2a-e88d-44a9-a0a4-f2a6c92ad5f0",
+      "name": "Moli Medical Center",
+      "originalRecord": {
+        "type": "Feature",
+        "id": "sv_health_facilities.fid--3185df38_17a314b4ee6_5def",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.585510254000042,
+            9.01751709000007
+          ]
+        },
+        "geometry_name": "geom",
+        "properties": {
+          "id": 21799,
+          "name": "Moli Medical Center",
+          "global_id": "ab941e2a-e88d-44a9-a0a4-f2a6c92ad5f0",
+          "alternate_name": null,
+          "functional_status": "Unknown",
+          "type": "Primary",
+          "ward_code": "FCTABC10",
+          "category": "Medical Center",
+          "timestamp": "2019-11-15T17:34:16Z",
+          "accessibility": null,
+          "lga_name": "Municipal Area Council",
+          "lga_code": "15006",
+          "state_code": "FC",
+          "state_name": "Fct"
+        }
+      },
+      "originalCoordinates": [
+        7.585510254000042,
+        9.01751709000007
+      ],
+      "originalState": "Fct",
+      "originalLga": "Municipal Area Council",
+      "originalWardCode": "FCTABC10",
+      "coordinateEqualsSource": true,
+      "boundaryMatches": [
+        {
+          "state": "Nasarawa",
+          "lga": "Karu",
+          "ward": "Karu",
+          "OBJECTID": 3073
+        }
+      ],
+      "distanceToClaimedLgaMetres": 568.3,
+      "distanceToFctBoundaryMetres": 568.3,
+      "distanceMethod": "EPSG:32632 minimum planar distance to full-resolution GRID3 polygon; not a correction vector or accuracy estimate",
+      "assessment": "证据缺漏，暂不能确定坐标错位还是行政归属不一致",
+      "evidenceStrength": "较弱",
+      "comparisonEvidence": [
+        {
+          "url": "https://branches.com.ng/branch-detail/Hospitals-and-Clinics-in-Nigeria-Moli-Hospital-Nasarawa",
+          "type": "非官方目录线索，未独立验证",
+          "comparison": "近似名称Moli Hospital列为Nasarawa/Karu；不足以确认同一机构或精确坐标"
+        }
+      ],
+      "geoportalCandidates": [
+        {
+          "type": "Feature",
+          "id": 2836,
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              7.42529500000006,
+              6.18695000000002
+            ]
+          },
+          "properties": {
+            "OBJECTID": 2836,
+            "facility": "Amoli health center",
+            "states": "Enugu",
+            "lgas": "Awgu",
+            "Wards": "Amoli",
+            "facility_type": "phc",
+            "building_ownership": "public",
+            "building_ownership_other": "n/a",
+            "built_year": "above_15yrs",
+            "last_renovated": "6_10yrs_a"
+          }
+        }
+      ],
+      "geoportalAssessment": "当前图层查询未发现有效同一机构候选；不能据此认定医院不存在",
+      "missingFields": [
+        "可核验详细地址",
+        "医院入口坐标",
+        "坐标采集方法和精度",
+        "独立的近期现场确认"
+      ],
+      "suggestedAdministrativeAssignment": [
+        {
+          "state": "Nasarawa",
+          "lga": "Karu",
+          "ward": "Karu",
+          "OBJECTID": 3073
+        }
+      ],
+      "suggestedCoordinates": null,
+      "applied": false,
+      "humanReviewStatus": "待人工复核",
+      "reviewedAt": "2026-11-11"
+    },
+    {
+      "facilityId": "9822e7f1-d2cf-4073-bd35-2d5a878c3589",
+      "name": "Odu Primary Health Center",
+      "originalRecord": {
+        "type": "Feature",
+        "id": "sv_health_facilities.fid--3185df38_17a314b4ee6_6671",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.4773597163624075,
+            8.635901355384103
+          ]
+        },
+        "geometry_name": "geom",
+        "properties": {
+          "id": 23987,
+          "name": "Odu Primary Health Center",
+          "global_id": "9822e7f1-d2cf-4073-bd35-2d5a878c3589",
+          "alternate_name": null,
+          "functional_status": "Unknown",
+          "type": "Primary",
+          "ward_code": "FCTABC08",
+          "category": "Primary Health Center",
+          "timestamp": "2019-11-15T17:34:16Z",
+          "accessibility": null,
+          "lga_name": "Municipal Area Council",
+          "lga_code": "15006",
+          "state_code": "FC",
+          "state_name": "Fct"
+        }
+      },
+      "originalCoordinates": [
+        7.4773597163624075,
+        8.635901355384103
+      ],
+      "originalState": "Fct",
+      "originalLga": "Municipal Area Council",
+      "originalWardCode": "FCTABC08",
+      "coordinateEqualsSource": true,
+      "boundaryMatches": [
+        {
+          "lga": "Kuje",
+          "ward": "Kujekwa",
+          "objectId": 3359
+        }
+      ],
+      "distanceToClaimedLgaMetres": 62.8,
+      "distanceToFctBoundaryMetres": 506.0,
+      "distanceMethod": "EPSG:32632 minimum planar distance to full-resolution GRID3 polygon; not a correction vector or accuracy estimate",
+      "assessment": "更倾向原登记LGA/ward字段不一致；靠近边界，仍不能排除定位或边界误差",
+      "evidenceStrength": "中等",
+      "comparisonEvidence": [
+        {
+          "url": "https://www.inecnigeria.org/wp-content/uploads/2022/02/FCT-PU-with-less-than-0-1-50-Voter-Registration.pdf",
+          "type": "INEC政府历史检索索引，原PDF本次404",
+          "comparison": "索引列 ODU PRI HEALTH CARE 在KUJE / KUJEKWA；不能据此验证现医院入口坐标"
+        }
+      ],
+      "geoportalCandidates": [],
+      "geoportalAssessment": "当前图层查询未发现有效同一机构候选；不能据此认定医院不存在",
+      "missingFields": [
+        "可核验详细地址",
+        "医院入口坐标",
+        "坐标采集方法和精度",
+        "独立的近期现场确认"
+      ],
+      "suggestedAdministrativeAssignment": [
+        {
+          "lga": "Kuje",
+          "ward": "Kujekwa",
+          "objectId": 3359
+        }
+      ],
+      "suggestedCoordinates": null,
+      "applied": false,
+      "humanReviewStatus": "待人工复核",
+      "reviewedAt": "2026-11-11"
+    },
+    {
+      "facilityId": "65f0dd73-8091-41b5-92d9-16c9bbe43bfa",
+      "name": "Blessed Trinity Hospital",
+      "originalRecord": {
+        "type": "Feature",
+        "id": "sv_health_facilities.fid--3185df38_17a314b4ee6_7693",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.5879635218079935,
+            9.031259330718346
+          ]
+        },
+        "geometry_name": "geom",
+        "properties": {
+          "id": 28155,
+          "name": "Blessed Trinity Hospital",
+          "global_id": "65f0dd73-8091-41b5-92d9-16c9bbe43bfa",
+          "alternate_name": null,
+          "functional_status": "Functional",
+          "type": "Primary",
+          "ward_code": "FCTABC10",
+          "category": "Primary Health Center",
+          "timestamp": "2019-11-15T17:34:16Z",
+          "accessibility": null,
+          "lga_name": "Municipal Area Council",
+          "lga_code": "15006",
+          "state_code": "FC",
+          "state_name": "Fct"
+        }
+      },
+      "originalCoordinates": [
+        7.5879635218079935,
+        9.031259330718346
+      ],
+      "originalState": "Fct",
+      "originalLga": "Municipal Area Council",
+      "originalWardCode": "FCTABC10",
+      "coordinateEqualsSource": true,
+      "boundaryMatches": [
+        {
+          "state": "Nasarawa",
+          "lga": "Karu",
+          "ward": "Bagaji-Agada",
+          "OBJECTID": 3068
+        }
+      ],
+      "distanceToClaimedLgaMetres": 355.9,
+      "distanceToFctBoundaryMetres": 355.9,
+      "distanceMethod": "EPSG:32632 minimum planar distance to full-resolution GRID3 polygon; not a correction vector or accuracy estimate",
+      "assessment": "更倾向跨州行政登记或城市地址分类不一致；没有证据支持移动医院点",
+      "evidenceStrength": "中等偏强",
+      "comparisonEvidence": [
+        {
+          "url": "https://crownjewelhmo.com/providers/",
+          "type": "HMO自有合作机构目录，非政府设施注册",
+          "comparison": "同名医院列Nasarawa；地址为5 Cross Park Street / Sharp Corner / Mararaba"
+        },
+        {
+          "url": "https://www.prohealthhmo.com/provider-directory",
+          "type": "另一HMO自有目录，非坐标测量",
+          "comparison": "同名医院列Nasarawa / Maraba，Criss Park Hotel附近"
+        }
+      ],
+      "geoportalCandidates": [],
+      "geoportalAssessment": "当前图层查询未发现有效同一机构候选；不能据此认定医院不存在",
+      "missingFields": [
+        "可核验详细地址",
+        "医院入口坐标",
+        "坐标采集方法和精度",
+        "独立的近期现场确认"
+      ],
+      "suggestedAdministrativeAssignment": [
+        {
+          "state": "Nasarawa",
+          "lga": "Karu",
+          "ward": "Bagaji-Agada",
+          "OBJECTID": 3068
+        }
+      ],
+      "suggestedCoordinates": null,
+      "applied": false,
+      "humanReviewStatus": "待人工复核",
+      "reviewedAt": "2026-11-11"
+    },
+    {
+      "facilityId": "f7630fde-606c-4b1e-aa28-db98039588b1",
+      "name": "Fountain Head Hospital",
+      "originalRecord": {
+        "type": "Feature",
+        "id": "sv_health_facilities.fid--3185df38_17a314b4ee6_7694",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.586330000000032,
+            9.023810000000026
+          ]
+        },
+        "geometry_name": "geom",
+        "properties": {
+          "id": 28156,
+          "name": "Fountain Head Hospital",
+          "global_id": "f7630fde-606c-4b1e-aa28-db98039588b1",
+          "alternate_name": null,
+          "functional_status": "Functional",
+          "type": "Primary",
+          "ward_code": "FCTABC10",
+          "category": "Primary Health Center",
+          "timestamp": "2019-11-15T17:34:16Z",
+          "accessibility": null,
+          "lga_name": "Municipal Area Council",
+          "lga_code": "15006",
+          "state_code": "FC",
+          "state_name": "Fct"
+        }
+      },
+      "originalCoordinates": [
+        7.586330000000032,
+        9.023810000000026
+      ],
+      "originalState": "Fct",
+      "originalLga": "Municipal Area Council",
+      "originalWardCode": "FCTABC10",
+      "coordinateEqualsSource": true,
+      "boundaryMatches": [
+        {
+          "state": "Nasarawa",
+          "lga": "Karu",
+          "ward": "Karu",
+          "OBJECTID": 3073
+        }
+      ],
+      "distanceToClaimedLgaMetres": 643.2,
+      "distanceToFctBoundaryMetres": 643.2,
+      "distanceMethod": "EPSG:32632 minimum planar distance to full-resolution GRID3 polygon; not a correction vector or accuracy estimate",
+      "assessment": "跨城地址分类或名称合并问题更可能，但同一机构身份与入口仍需核对",
+      "evidenceStrength": "中等",
+      "comparisonEvidence": [
+        {
+          "url": "https://crownjewelhmo.com/providers/",
+          "type": "HMO自有目录，近似名称候选",
+          "comparison": "Fountain Head Medical Centre列Nasarawa/Karu，地址Maraba；不能直接确认与HDX Hospital同一实体"
+        },
+        {
+          "url": "https://healthpartnersng.org/wp-content/uploads/2022/11/HEALTH-PARTNERS-PROVIDER-DIRECTORY__-Sheet1.pdf",
+          "type": "HMO目录历史检索索引",
+          "comparison": "Fountain Head Hospital地址112 Old Karu Road, Maraba，但州列FCT，显示城市/州叫法口径可能混用"
+        }
+      ],
+      "geoportalCandidates": [],
+      "geoportalAssessment": "当前图层查询未发现有效同一机构候选；不能据此认定医院不存在",
+      "missingFields": [
+        "可核验详细地址",
+        "医院入口坐标",
+        "坐标采集方法和精度",
+        "独立的近期现场确认"
+      ],
+      "suggestedAdministrativeAssignment": [
+        {
+          "state": "Nasarawa",
+          "lga": "Karu",
+          "ward": "Karu",
+          "OBJECTID": 3073
+        }
+      ],
+      "suggestedCoordinates": null,
+      "applied": false,
+      "humanReviewStatus": "待人工复核",
+      "reviewedAt": "2026-11-11"
+    },
+    {
+      "facilityId": "30f25be5-6164-4afa-a323-e9820a4b942a",
+      "name": "Albama Clinic",
+      "originalRecord": {
+        "type": "Feature",
+        "id": "sv_health_facilities.fid--3185df38_17a314b4ee6_76b3",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.5801400000000285,
+            9.00416000000007
+          ]
+        },
+        "geometry_name": "geom",
+        "properties": {
+          "id": 28186,
+          "name": "Albama Clinic",
+          "global_id": "30f25be5-6164-4afa-a323-e9820a4b942a",
+          "alternate_name": null,
+          "functional_status": "Functional",
+          "type": "Primary",
+          "ward_code": "FCTABC09",
+          "category": "Primary Health Center",
+          "timestamp": "2019-11-15T17:34:16Z",
+          "accessibility": null,
+          "lga_name": "Municipal Area Council",
+          "lga_code": "15006",
+          "state_code": "FC",
+          "state_name": "Fct"
+        }
+      },
+      "originalCoordinates": [
+        7.5801400000000285,
+        9.00416000000007
+      ],
+      "originalState": "Fct",
+      "originalLga": "Municipal Area Council",
+      "originalWardCode": "FCTABC09",
+      "coordinateEqualsSource": true,
+      "boundaryMatches": [
+        {
+          "state": "Nasarawa",
+          "lga": "Karu",
+          "ward": "Karu",
+          "OBJECTID": 3073
+        }
+      ],
+      "distanceToClaimedLgaMetres": 145.5,
+      "distanceToFctBoundaryMetres": 145.5,
+      "distanceMethod": "EPSG:32632 minimum planar distance to full-resolution GRID3 polygon; not a correction vector or accuracy estimate",
+      "assessment": "边界附近、城市/州地址叫法和资料缺漏均有可能，当前不足以定责",
+      "evidenceStrength": "较弱",
+      "comparisonEvidence": [
+        {
+          "url": "https://www.finelib.com/listing/Albama-Clinic--Maternity/59892/",
+          "type": "非官方目录线索，未独立验证",
+          "comparison": "近似名称Albama Clinic & Maternity，地址Shebo-Karu/Nyanya/Abuja；不提供可靠测量坐标，不能作为纠偏依据"
+        }
+      ],
+      "geoportalCandidates": [],
+      "geoportalAssessment": "当前图层查询未发现有效同一机构候选；不能据此认定医院不存在",
+      "missingFields": [
+        "可核验详细地址",
+        "医院入口坐标",
+        "坐标采集方法和精度",
+        "独立的近期现场确认"
+      ],
+      "suggestedAdministrativeAssignment": [
+        {
+          "state": "Nasarawa",
+          "lga": "Karu",
+          "ward": "Karu",
+          "OBJECTID": 3073
+        }
+      ],
+      "suggestedCoordinates": null,
+      "applied": false,
+      "humanReviewStatus": "待人工复核",
+      "reviewedAt": "2026-11-11"
+    },
+    {
+      "facilityId": "ba9de5c7-1943-41da-8895-42f4c790f937",
+      "name": "Kpakuru Primary Health Center",
+      "originalRecord": {
+        "type": "Feature",
+        "id": "sv_health_facilities.fid--3185df38_17a326f927a_-73ad",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.205538060604485,
+            9.013748866102027
+          ]
+        },
+        "geometry_name": "geom",
+        "properties": {
+          "id": 33779,
+          "name": "Kpakuru Primary Health Center",
+          "global_id": "ba9de5c7-1943-41da-8895-42f4c790f937",
+          "alternate_name": null,
+          "functional_status": "Functional",
+          "type": "Primary",
+          "ward_code": "FCTABC03",
+          "category": "Primary Health Center",
+          "timestamp": "2019-11-15T17:34:16Z",
+          "accessibility": null,
+          "lga_name": "Municipal Area Council",
+          "lga_code": "15006",
+          "state_code": "FC",
+          "state_name": "Fct"
+        }
+      },
+      "originalCoordinates": [
+        7.205538060604485,
+        9.013748866102027
+      ],
+      "originalState": "Fct",
+      "originalLga": "Municipal Area Council",
+      "originalWardCode": "FCTABC03",
+      "coordinateEqualsSource": true,
+      "boundaryMatches": [
+        {
+          "lga": "Gwagwalada",
+          "ward": "Gwako",
+          "objectId": 1887
+        }
+      ],
+      "distanceToClaimedLgaMetres": 954.4,
+      "distanceToFctBoundaryMetres": 11144.8,
+      "distanceMethod": "EPSG:32632 minimum planar distance to full-resolution GRID3 polygon; not a correction vector or accuracy estimate",
+      "assessment": "更倾向登记LGA/ward字段不一致；Kpakuru与Kpakuru Liman同一机构身份仍需核对",
+      "evidenceStrength": "中等",
+      "comparisonEvidence": [
+        {
+          "url": "https://www.inecnigeria.org/wp-content/uploads/2022/02/FCT-PUs-above-3000-voters_Print.pdf",
+          "type": "INEC政府历史检索索引，原PDF本次404",
+          "comparison": "Kpakuru社区/小学列GWAGWALADA / GWAKO；是地点佐证，不是医院入口测量"
+        },
+        {
+          "url": "https://www.library.procurementmonitor.org/backend/files/List%20of%20Health%20Facilities%20in%20FCT.pdf",
+          "type": "历史医疗设施列表镜像检索线索",
+          "comparison": "KPAKURU LIMAN HEALTH在GWAGWALADA/GWAKO；名称比HDX多Liman，未确认同一实体"
+        }
+      ],
+      "geoportalCandidates": [],
+      "geoportalAssessment": "当前图层查询未发现有效同一机构候选；不能据此认定医院不存在",
+      "missingFields": [
+        "可核验详细地址",
+        "医院入口坐标",
+        "坐标采集方法和精度",
+        "独立的近期现场确认"
+      ],
+      "suggestedAdministrativeAssignment": [
+        {
+          "lga": "Gwagwalada",
+          "ward": "Gwako",
+          "objectId": 1887
+        }
+      ],
+      "suggestedCoordinates": null,
+      "applied": false,
+      "humanReviewStatus": "待人工复核",
+      "reviewedAt": "2026-11-11"
+    }
+  ]
+}

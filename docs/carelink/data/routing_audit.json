@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "sha256": "69a289f103621bfa9ff67861487e1f95279085af203b98d3867dad9c8ccb4ba2",
+  "counts": {
+    "gatesWithoutConfirmedOpening": 905,
+    "blockedSegments": 244,
+    "regionalRestrictions": 17,
+    "supportedRestrictions": 10,
+    "unsupportedRestrictions": 7,
+    "blockedNodes": 227,
+    "restrictedJunctions": 8,
+    "snappedFacilities": 574,
+    "originsWithRoutes": 566,
+    "routes": 1698
+  },
+  "seconds": 130,
+  "limitations": [
+    "Regional extract; paths can be affected by clipping even when not near boundary",
+    "Nearest ordinary drivable node within 500m; no verified hospital entrance or connector access; connector distance/time excluded",
+    "Unconditional single-via-node motorcar turn restrictions only; unsupported and conditional relations counted in audit",
+    "Conditional access/oneway, unknown gate opening, road surface, traffic and clinical acceptance are not modelled",
+    "Parallel same-node edges represented by one shortest segment; relation way identity may be incomplete"
+  ]
+}

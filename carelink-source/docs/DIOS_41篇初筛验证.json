@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-11",
+  "batchIds": 41,
+  "readableOriginals": 39,
+  "originalsBlocked": 2,
+  "highPriority": 14,
+  "newBatchDuplicateCandidateGroups": 5,
+  "allQueue": 50,
+  "allQueueReadable": 47,
+  "allQueueBlocked": 3,
+  "automaticHumanConfirmations": 0,
+  "newPatientCoordinates": 0,
+  "rawExportChanged": false,
+  "browserFiltersVerified": {
+    "batch": 41,
+    "high": 14,
+    "allBlocked": 3
+  },
+  "productionBuild": "passed",
+  "githubUpdated": false
+}

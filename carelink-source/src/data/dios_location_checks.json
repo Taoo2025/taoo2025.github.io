@@ -1,0 +1,3339 @@
+{
+  "3dc9fa268bed6cf5": {
+    "articleId": "3dc9fa268bed6cf5",
+    "url": "https://www.thisdaylive.com/index.php/2022/09/08/unfpa-20000-girls-saved-from-child-marriage-in-three-years/",
+    "precision": "国家",
+    "eventPlace": "Nigeria；发布会地点 State House, Abuja",
+    "mentionedFacility": "",
+    "publisherPlace": "原文未确认独立发布地",
+    "note": "全国项目成果在 Abuja 发布。不能把全国服务人数分配给 Abuja 或 Sokoto North。",
+    "evidence": "原文记者地点和 UNFPA 代表在 State House 发布报告的段落。",
+    "date": "2022-09-08",
+    "signalKind": "program-context",
+    "duplicateGroup": "UNFPA-LANDSCAPE-LAUNCH-2022-09-08",
+    "reviewer": "AI辅助原文核查，待团队复核",
+    "reviewedAt": "2026-11-10",
+    "sourceVerification": "原文已读取",
+    "localCaseEvidence": false,
+    "duplicateStatus": "AI疑似同发布活动，待人工确认；2000脱离童婚/20000留校为不同指标",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核"
+  },
+  "85a063fd519dd917": {
+    "articleId": "85a063fd519dd917",
+    "url": "https://blueprint.ng/fct-actionaid-nigeria-gwarinpa-hospital-partner-to-end-early-marriage-vvf/",
+    "precision": "州/FCT",
+    "eventPlace": "FCT, Abuja；会议在 Abuja",
+    "mentionedFacility": "Gwarinpa General Hospital",
+    "publisherPlace": "原文未确认独立发布地",
+    "note": "服务项目覆盖 FCT，提及 Gwarinpa 医院合作和瘘治疗服务。原文缺少病例发生地址，保留 FCT 级项目范围。",
+    "evidence": "Blueprint 正文项目目的、医院合作及院方介绍段落。",
+    "date": "2023-12-03",
+    "signalKind": "program-context",
+    "duplicateGroup": "",
+    "reviewer": "AI辅助原文核查，待团队复核",
+    "reviewedAt": "2026-11-10",
+    "sourceVerification": "原文已读取",
+    "localCaseEvidence": false,
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核"
+  },
+  "9c65fd520d8cab83": {
+    "articleId": "9c65fd520d8cab83",
+    "url": "https://www.thecable.ng/un-launches-promote-my-sister-campaign-to-empower-nigerian-women",
+    "precision": "国家",
+    "eventPlace": "Nigeria；活动在 Abuja",
+    "mentionedFacility": "",
+    "publisherPlace": "原文未确认独立发布地",
+    "note": "全国女性赋权倡议在 Abuja 启动。文中孕产妇死亡率为国家发展计划目标。",
+    "evidence": "TheCable 正文启动活动与国家发展计划段落。",
+    "date": "2022-08-03",
+    "signalKind": "program-context",
+    "duplicateGroup": "",
+    "reviewer": "AI辅助原文核查，待团队复核",
+    "reviewedAt": "2026-11-10",
+    "sourceVerification": "原文已读取",
+    "localCaseEvidence": false,
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核"
+  },
+  "e0ed5c00e7bdce34": {
+    "articleId": "e0ed5c00e7bdce34",
+    "url": "https://fr.allafrica.com/stories/202111280164.html",
+    "precision": "州/FCT",
+    "eventPlace": "Abuja 与 Lagos 两地支持活动",
+    "mentionedFacility": "",
+    "publisherPlace": "原文未确认独立发布地",
+    "note": "原文包含两地受益者培训及 Abuja 酒店仪式。缺少具体病例发生地点，多地活动应分别保留角色。",
+    "evidence": "AllAfrica 法文正文中两地受益者及 Sheraton 仪式段落。",
+    "date": "",
+    "signalKind": "program-context",
+    "duplicateGroup": "",
+    "reviewer": "AI辅助原文核查，待团队复核",
+    "reviewedAt": "2026-11-10",
+    "sourceVerification": "原文已读取",
+    "localCaseEvidence": false,
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核"
+  },
+  "e37ee89e2c1988e0": {
+    "articleId": "e37ee89e2c1988e0",
+    "url": "https://nationalaccordnewspaper.com/unfpa-donates-18200-ppes-to-fcta/",
+    "precision": "州/FCT",
+    "eventPlace": "FCT；捐赠交接在 Abuja",
+    "mentionedFacility": "",
+    "publisherPlace": "原文未确认独立发布地",
+    "note": "向 FCTA 捐赠 PPE，属于服务支持背景。未找到原始 Kwali 标注的正文依据。",
+    "evidence": "National Accord 正文捐赠对象、Abuja 交接及 FCT 卫生部门回应段落。",
+    "date": "",
+    "signalKind": "program-context",
+    "duplicateGroup": "FCTA-PPE-18200",
+    "reviewer": "AI辅助原文核查，待团队复核",
+    "reviewedAt": "2026-11-10",
+    "sourceVerification": "原文已读取",
+    "localCaseEvidence": false,
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核"
+  },
+  "e627a5416c19e1cd": {
+    "articleId": "e627a5416c19e1cd",
+    "url": "http://www.thetidenewsonline.com/2021/02/03/unfpa-donates-18200-ppes-to-fcta/",
+    "precision": "州/FCT",
+    "eventPlace": "FCT；捐赠交接在 Abuja",
+    "mentionedFacility": "",
+    "publisherPlace": "原文未确认独立发布地",
+    "note": "与 National Accord 的捐赠数量、人员和物资清单一致，标记同事件候选，统计时需合并核实。",
+    "evidence": "The Tide 正文同一批 PPE 捐赠与 FCTA 接收人员描述。",
+    "date": "",
+    "signalKind": "program-context",
+    "duplicateGroup": "FCTA-PPE-18200",
+    "reviewer": "AI辅助原文核查，待团队复核",
+    "reviewedAt": "2026-11-10",
+    "sourceVerification": "原文已读取",
+    "localCaseEvidence": false,
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核"
+  },
+  "e794926d634a2386": {
+    "articleId": "e794926d634a2386",
+    "url": "https://ecowas.int/ecowas-supports-member-states-with-1-9-million-to-improve-care-for-women-and-girls-suffering-from-obstetric-fistula-as-the-ninety-first-ordinary-session-of-the-council-of-ministers-opens-in-abuja/",
+    "precision": "国家",
+    "eventPlace": "八个 ECOWAS 成员国，包括 Nigeria；会议在 Abuja",
+    "mentionedFacility": "",
+    "publisherPlace": "原文未确认独立发布地",
+    "note": "区域资金分配在 Abuja 公布，不能把区域受益人数或资金当作 FCT 病例需求。",
+    "evidence": "ECOWAS 官方正文成员国名单、捐赠及会议地点段落。",
+    "date": "2023-12-08",
+    "signalKind": "program-context",
+    "duplicateGroup": "",
+    "reviewer": "AI辅助原文核查，待团队复核",
+    "reviewedAt": "2026-11-10",
+    "sourceVerification": "原文已读取",
+    "localCaseEvidence": false,
+    "verifiedSourceUrl": "https://www.ecowas.int/ecowas-supports-member-states-with-1-9-million-to-improve-care-for-women-and-girls-suffering-from-obstetric-fistula-as-the-ninety-first-ordinary-session-of-the-council-of-ministers-opens-in-abuja/",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核"
+  },
+  "fa82c0ebefc7e767": {
+    "articleId": "fa82c0ebefc7e767",
+    "url": "https://www.thisdaylive.com/2025/07/03/dolapo-fasawe-and-the-triple-triumph-for-health-environment-and-climate-action-in-the-fct/",
+    "precision": "州/FCT",
+    "eventPlace": "FCT；同时提及 Kuje、Bwari 等项目地点",
+    "mentionedFacility": "Gwarinpa、Maitama、Asokoro、Bwari、Abaji、Garki 医院",
+    "publisherPlace": "原文未确认独立发布地",
+    "note": "原文为 FCT 服务成果与授奖报道。Garki 在此语境指医院，缺少把它定位到 Jigawa/Garki LGA 的依据。多个项目地点不直接转换为病例风险点。",
+    "evidence": "THISDAY 正文医疗基础设施、VVF 中心及 Garki 医院住宿翻修段落。",
+    "date": "2025-07-03",
+    "signalKind": "program-context",
+    "duplicateGroup": "",
+    "reviewer": "AI辅助原文核查，待团队复核",
+    "reviewedAt": "2026-11-10",
+    "sourceVerification": "原文已读取",
+    "localCaseEvidence": false,
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核"
+  },
+  "6626e5a06d621048": {
+    "articleId": "6626e5a06d621048",
+    "url": "https://blueprint.ng/2024-iwd-cdhi-hosts-national-symposium-to-promote-inclusivity/",
+    "precision": "待核查",
+    "eventPlace": "",
+    "mentionedFacility": "",
+    "publisherPlace": "",
+    "evidence": "原文请求 403，网页搜索未取得可靠正文",
+    "note": "保留原始 DIOS 摘要和地点字段。Abuja、Kwali、Olamabolo 均待原文证据确认。",
+    "sourceVerification": "原文不可访问",
+    "reviewedAt": "2026-11-10",
+    "reviewer": "AI访问检查，待团队核查",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核"
+  },
+  "0d4099a913fb1dae": {
+    "articleId": "0d4099a913fb1dae",
+    "title": "What Does Remi Tinubu Want ? - THISDAYLIVE",
+    "url": "https://www.thisdaylive.com/2025/08/29/what-does-remi-tinubu-want/",
+    "verifiedSourceUrl": "https://www.thisdaylive.com/2025/08/29/what-does-remi-tinubu-want/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；Abuja 为食品援助启动地，另述多州项目",
+    "mentionedFacility": "",
+    "publisherPlace": "媒体办公地未核实",
+    "date": "2025-08-29",
+    "publicationTimestamp": "",
+    "dateEvidence": "仅 URL 日期线索；原页未取得绝对发表日期，待人工核实",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "全国政策/项目背景",
+    "screeningProposal": "保留全国倡议背景；Abuja 食品活动不能定位孕产妇病例。",
+    "note": "保留全国倡议背景；Abuja 食品活动不能定位孕产妇病例。",
+    "evidence": "正文食品项目启动、各州妇女扶持和助产人员装备段落。",
+    "reviewPriority": "中",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-06-07",
+        "name": "Southern Ijaw, Bayelsa",
+        "adm1": "Bayelsa",
+        "adm2": "Southern Ijaw"
+      },
+      {
+        "code": "NGA-20230404-12-18",
+        "name": "Uhunmwonde, Edo",
+        "adm1": "Edo",
+        "adm2": "Uhunmwonde"
+      },
+      {
+        "code": "NGA-20230404-13-01",
+        "name": "Ado Ekiti, Ekiti",
+        "adm1": "Ekiti",
+        "adm2": "Ado Ekiti"
+      },
+      {
+        "code": "NGA-20230404-14-04",
+        "name": "Enugu North, Enugu",
+        "adm1": "Enugu",
+        "adm2": "Enugu North"
+      },
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      },
+      {
+        "code": "NGA-20230404-25-14",
+        "name": "Lagos Island, Lagos",
+        "adm1": "Lagos",
+        "adm2": "Lagos Island"
+      },
+      {
+        "code": "NGA-20230404-29-08",
+        "name": "Idanre, Ondo",
+        "adm1": "Ondo",
+        "adm2": "Idanre"
+      },
+      {
+        "code": "NGA-20230404-31-20",
+        "name": "Lagelu, Oyo",
+        "adm1": "Oyo",
+        "adm2": "Lagelu"
+      },
+      {
+        "code": "NGA-20230404-32-09",
+        "name": "Langtang North, Plateau",
+        "adm1": "Plateau",
+        "adm2": "Langtang North"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://www.thisdaylive.com/2025/08/29/what-does-remi-tinubu-want/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "2b926d49fedf6d680f77cc9474da3712d87c70e9f739318006081bb1b33cf021"
+    }
+  },
+  "1c196d20de0520c3": {
+    "articleId": "1c196d20de0520c3",
+    "title": "FG begins distribution of N2 . 9bn free maternal , neonatal health commodities",
+    "url": "https://www.premiumtimesng.com/news/top-news/819697-fg-begins-distribution-of-n2-9bn-free-maternal-neonatal-health-commodities.html",
+    "verifiedSourceUrl": "https://www.premiumtimesng.com/news/top-news/819697-fg-begins-distribution-of-n2-9bn-free-maternal-neonatal-health-commodities.html",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；物资发放启动仪式在 Abuja",
+    "mentionedFacility": "",
+    "publisherPlace": "发布办公地未核实；正文 Abuja 是仪式地点",
+    "date": "2025-09-08",
+    "publicationTimestamp": "2025-09-08T19:27:04+00:00",
+    "dateEvidence": "原页 datePublished/article:published_time，转换至 Nigeria UTC+1；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "全国政策/项目背景",
+    "screeningProposal": "全国孕产/新生儿物资计划；不能把全国受益或物资数量分配给 FCT。",
+    "note": "全国孕产/新生儿物资计划；不能把全国受益或物资数量分配给 FCT。",
+    "evidence": "正文开头 nationwide、Abuja 启动仪式与 MAMII 说明段落。",
+    "reviewPriority": "中",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://www.premiumtimesng.com/news/top-news/819697-fg-begins-distribution-of-n2-9bn-free-maternal-neonatal-health-commodities.html",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "abc9f3602cf1154184b1176f51995b29217c83c063947ea9572a7b6144102889"
+    }
+  },
+  "250d562525d0d311": {
+    "articleId": "250d562525d0d311",
+    "title": "Tinubu : Accurate Population Data Crucial for Innovative , Effective Governance",
+    "url": "https://www.thisdaylive.com:443/index.php/2023/11/09/tinubu-accurate-population-data-crucial-for-innovative-effective-governance",
+    "verifiedSourceUrl": "https://www.thisdaylive.com/2023/11/09/tinubu-accurate-population-data-crucial-for-innovative-effective-governance/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；eCRVS 发布在 State House, Abuja",
+    "mentionedFacility": "",
+    "publisherPlace": "发布办公地未核实",
+    "date": "2023-11-09",
+    "publicationTimestamp": "",
+    "dateEvidence": "仅 URL 日期线索；原页未取得绝对发表日期，待人工核实",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "全国政策/项目背景",
+    "screeningProposal": "国家人口登记系统发布；与 The Sun 同一发布活动，孕产妇死亡数字为全国背景。",
+    "note": "国家人口登记系统发布；与 The Sun 同一发布活动，孕产妇死亡数字为全国背景。",
+    "evidence": "正文 State House 发布、数字登记系统及孕产妇死亡可报告性的段落。",
+    "reviewPriority": "中",
+    "duplicateGroup": "ECRVS-STATE-HOUSE-2023-11-08",
+    "duplicateStatus": "AI疑似同稿/同事件，待人工确认",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://www.thisdaylive.com/2023/11/09/tinubu-accurate-population-data-crucial-for-innovative-effective-governance/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "60be9838fe0f2f2270a00565689db7f0e5d60dc2fe50ca7e67b6db8fe5922dfe"
+    }
+  },
+  "2b39a703e1bda28e": {
+    "articleId": "2b39a703e1bda28e",
+    "title": "Tackling gender - based violence - Punch Newspapers",
+    "url": "https://punchng.com/tackling-gender-based-violence/",
+    "verifiedSourceUrl": "https://punchng.com/tackling-gender-based-violence/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "州/FCT",
+    "eventPlace": "FCT 2016–2019 历史研究；其余讨论为 Nigeria 全国",
+    "mentionedFacility": "",
+    "publisherPlace": "作者署名 Abuja；不等于病例发生地",
+    "date": "2021-12-16",
+    "publicationTimestamp": "2021-12-15T23:30:22+00:00",
+    "dateEvidence": "原页 datePublished/article:published_time，转换至 Nigeria UTC+1；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "research-context",
+    "screeningCategory": "历史研究/统计背景",
+    "screeningProposal": "保留历史研究背景；与 THISDAY 的同作者文章高度相似，不能当新病例事件。",
+    "note": "保留历史研究背景；与 THISDAY 的同作者文章高度相似，不能当新病例事件。",
+    "evidence": "正文 Centre for Social Justice、FCT 2016–2019 预算研究及文末作者署名。",
+    "reviewPriority": "中",
+    "duplicateGroup": "CSJ-SGBV-SRHR-COMMENTARY-2021",
+    "duplicateStatus": "AI疑似同稿/同事件，待人工确认",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "historical-study",
+      "possible-republication"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-06",
+        "name": "Kwali, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Kwali"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://punchng.com/tackling-gender-based-violence/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "24d79573a63d575f0bca0cad850fade63be25d08c0085c29fe67949de0d8682b"
+    }
+  },
+  "2c2bc25ad16d03dd": {
+    "articleId": "2c2bc25ad16d03dd",
+    "title": "Nigeria @ 65 : Why health sector needs healing - Peoples Daily Newspaper",
+    "url": "https://peoplesdailyng.com/nigeria-65-why-health-sector-needs-healing/",
+    "verifiedSourceUrl": "https://peoplesdailyng.com/nigeria-65-why-health-sector-needs-healing/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站网页读取（HTTP脚本受限，网页工具取得正文）",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；涉及多州及 FCT 培训覆盖",
+    "mentionedFacility": "",
+    "publisherPlace": "原文未核实独立出版地点",
+    "date": "2025-09-30",
+    "publicationTimestamp": "",
+    "dateEvidence": "原页可见日期（网页读取）",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "全国政策/项目背景",
+    "screeningProposal": "全国卫生系统评论；FCT 是培训覆盖之一，未报告 FCT 区级病例。",
+    "note": "全国卫生系统评论；FCT 是培训覆盖之一，未报告 FCT 区级病例。",
+    "evidence": "原页 2025-09-30 标题下正文：全国医疗改革、24州及FCT培训、卫生融资评论。",
+    "reviewPriority": "中",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": null,
+      "attempts": [],
+      "error": "HTTPSConnectionPool(host='peoplesdailyng.com', port=443): Max retries exceeded with url: /nigeria-65-why-health-sector-needs-healing/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))",
+      "responseSha256": ""
+    }
+  },
+  "2eedfe6e3aed576b": {
+    "articleId": "2eedfe6e3aed576b",
+    "title": "Freeing Women from Trauma and Stigma of Fistula – THISDAYLIVE",
+    "url": "https://www.thisdaylive.com/index.php/2024/07/08/freeing-women-from-trauma-and-stigma-of-fistula/",
+    "verifiedSourceUrl": "https://www.thisdaylive.com/2024/07/08/freeing-women-from-trauma-and-stigma-of-fistula/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；Fistula-Free Programme 启动在卫生部 Abuja 会议室",
+    "mentionedFacility": "",
+    "publisherPlace": "媒体办公地未核实",
+    "date": "2024-07-08",
+    "publicationTimestamp": "",
+    "dateEvidence": "仅 URL 日期线索；原页未取得绝对发表日期，待人工核实",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "全国政策/项目背景",
+    "screeningProposal": "全国瘘治疗保障项目；Abuja 为启动地点，不能视为当地病例发生地。",
+    "note": "全国瘘治疗保障项目；Abuja 为启动地点，不能视为当地病例发生地。",
+    "evidence": "正文开头 Ministry conference room、项目资金和全国实施机制段落。",
+    "reviewPriority": "中",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://www.thisdaylive.com/2024/07/08/freeing-women-from-trauma-and-stigma-of-fistula/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "118c2921b1afcdb1b78500e67c71756215b6f03fd2bf99ead9897ad0ca15bb24"
+    }
+  },
+  "32babba56f4ea47e": {
+    "articleId": "32babba56f4ea47e",
+    "title": "NHIA expands free emergency care for women with pregnancy complications",
+    "url": "https://www.premiumtimesng.com/news/top-news/864048-nhia-expands-free-emergency-care-for-women-with-pregnancy-complications.html",
+    "verifiedSourceUrl": "https://www.premiumtimesng.com/news/top-news/864048-nhia-expands-free-emergency-care-for-women-with-pregnancy-complications.html",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；NHIA 采访在 Abuja",
+    "mentionedFacility": "",
+    "publisherPlace": "NAN 采访地点 Abuja；媒体办公地未核实",
+    "date": "2026-03-14",
+    "publicationTimestamp": "2026-03-14T12:55:53+00:00",
+    "dateEvidence": "原页 datePublished/article:published_time，转换至 Nigeria UTC+1；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "全国政策/项目背景",
+    "screeningProposal": "全国急救支付政策；与 Quick News 2026-03-13 的 NAN 采访为疑似同稿。",
+    "note": "全国急救支付政策；与 Quick News 2026-03-13 的 NAN 采访为疑似同稿。",
+    "evidence": "正文 Ohiri 接受 NAN 采访、免预付、报销和近四万受益者说明。",
+    "reviewPriority": "中",
+    "duplicateGroup": "NAN-NHIA-OHIRI-2026-03-13",
+    "duplicateStatus": "AI疑似同稿/同事件，待人工确认",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://www.premiumtimesng.com/news/top-news/864048-nhia-expands-free-emergency-care-for-women-with-pregnancy-complications.html",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "3d7b8ad31189ea4a40eb4248e0ed8251edc05b1a2ea48882cd1a6edcaa72cf0b"
+    }
+  },
+  "46d329446af0d4d3": {
+    "articleId": "46d329446af0d4d3",
+    "title": "How Non - ratification of Child Rights Act Fuels Child Marriage",
+    "url": "https://www.thisdaylive.com/index.php/2021/01/25/how-non-ratification-of-child-rights-act-fuels-child-marriage/",
+    "verifiedSourceUrl": "https://www.thisdaylive.com/2021/01/25/how-non-ratification-of-child-rights-act-fuels-child-marriage/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "州/FCT",
+    "eventPlace": "FCT 的 SGBV 历史统计；另含多州童婚研究",
+    "mentionedFacility": "",
+    "publisherPlace": "媒体办公地未核实",
+    "date": "2021-01-25",
+    "publicationTimestamp": "",
+    "dateEvidence": "仅 URL 日期线索；原页未取得绝对发表日期，待人工核实",
+    "eventDate": null,
+    "signalKind": "research-context",
+    "screeningCategory": "历史研究/统计背景",
+    "screeningProposal": "FCT 105 起为2020年一段时期的性别暴力统计，不是孕产死亡或产科瘘新发病例。",
+    "note": "FCT 105 起为2020年一段时期的性别暴力统计，不是孕产死亡或产科瘘新发病例。",
+    "evidence": "正文 FCT 段明确报告 2020-03-23 至 2020-05-29 的 SGBV 统计；并列多州童婚数据。",
+    "reviewPriority": "高",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "historical-statistic",
+      "non-target-case-type"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-05-02",
+        "name": "Bauchi",
+        "adm1": "Bauchi",
+        "adm2": ""
+      },
+      {
+        "code": "NGA-20230404-11-01",
+        "name": "Abakaliki, Ebonyi",
+        "adm1": "Ebonyi",
+        "adm2": "Abakaliki"
+      },
+      {
+        "code": "NGA-20230404-15-06",
+        "name": "Kwali, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Kwali"
+      },
+      {
+        "code": "NGA-20230404-16-06",
+        "name": "Gombe",
+        "adm1": "Gombe",
+        "adm2": ""
+      },
+      {
+        "code": "NGA-20230404-20-19",
+        "name": "Gwarzo, Kano",
+        "adm1": "Kano",
+        "adm2": "Gwarzo"
+      },
+      {
+        "code": "NGA-20230404-20-21",
+        "name": "Kano Municipal, Kano",
+        "adm1": "Kano",
+        "adm2": "Kano Municipal"
+      },
+      {
+        "code": "NGA-20230404-34-10",
+        "name": "Kebbe, Sokoto",
+        "adm1": "Sokoto",
+        "adm2": "Kebbe"
+      },
+      {
+        "code": "NGA-20230404-34-16",
+        "name": "Sokoto North, Sokoto",
+        "adm1": "Sokoto",
+        "adm2": "Sokoto North"
+      },
+      {
+        "code": "NGA-20230404-36-04",
+        "name": "Fika, Yobe",
+        "adm1": "Yobe",
+        "adm2": "Fika"
+      },
+      {
+        "code": "NGA-20230404-36-05",
+        "name": "Fune, Yobe",
+        "adm1": "Yobe",
+        "adm2": "Fune"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://www.thisdaylive.com/2021/01/25/how-non-ratification-of-child-rights-act-fuels-child-marriage/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "d0ceaaa97cafbcc529ed574f3bdbb5d9d017a8654adb778134a243ca18ff4c20"
+    }
+  },
+  "4e527528bcb18718": {
+    "articleId": "4e527528bcb18718",
+    "title": "Nigeria : Women Health Is a Human Right That Must Be Fought and Won",
+    "url": "https://allafrica.com/stories/202505290132.html",
+    "verifiedSourceUrl": "https://allafrica.com/stories/202505290132.html",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站网页读取（HTTP脚本受限，网页工具取得正文）",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；引文研究在 Lagos/Abuja，开篇情景在 Borno",
+    "mentionedFacility": "",
+    "publisherPlace": "原页来源署名 Nigeria Health Watch (Abuja)；不是病例地",
+    "date": "2025-05-28",
+    "publicationTimestamp": "2025-05-29T06:04:47+0000",
+    "dateEvidence": "原页可见日期28 May 2025；HTTP元数据29 May不一致，保留人工核对标记",
+    "eventDate": null,
+    "signalKind": "research-context",
+    "screeningCategory": "历史研究/统计背景",
+    "screeningProposal": "AllAfrica 与 Nigeria Health Watch 同稿；研究抽样地、媒体署名和开篇叙事不能转换为 FCT 孕产病例。",
+    "note": "AllAfrica 与 Nigeria Health Watch 同稿；研究抽样地、媒体署名和开篇叙事不能转换为 FCT 孕产病例。",
+    "evidence": "AllAfrica 可读正文与原发布方全文一致：Borno 开篇、Lagos/Abuja 研究、FCT 女医生比例。",
+    "reviewPriority": "中",
+    "duplicateGroup": "NHW-WOMENS-HEALTH-2025-05-28",
+    "duplicateStatus": "AI疑似同稿/同事件，待人工确认",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "publication-date-conflict",
+      "possible-republication"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-08-16",
+        "name": "Konduga, Borno",
+        "adm1": "Borno",
+        "adm2": "Konduga"
+      },
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      },
+      {
+        "code": "NGA-20230404-15-06",
+        "name": "Kwali, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Kwali"
+      },
+      {
+        "code": "NGA-20230404-25-14",
+        "name": "Lagos Island, Lagos",
+        "adm1": "Lagos",
+        "adm2": "Lagos Island"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 403,
+      "attempts": [
+        {
+          "url": "https://allafrica.com/stories/202505290132.html",
+          "status": 403
+        }
+      ],
+      "error": "",
+      "responseSha256": "1e041ac090f899260f20d36a31b70c52c249145fdbede94756445d16d0ca10f8"
+    }
+  },
+  "509680b01efc2db9": {
+    "articleId": "509680b01efc2db9",
+    "title": "Nigeria humanitarian situation deteriorates - UNFPA",
+    "url": "https://dailypost.ng/2025/10/29/nigerias-humanitarian-situation-deteriorates-unfpa/",
+    "verifiedSourceUrl": "https://dailypost.ng/2025/10/29/nigerias-humanitarian-situation-deteriorates-unfpa/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria 多州及 Abuja 洪灾；暴力地点 Bama/Banki, Borno",
+    "mentionedFacility": "",
+    "publisherPlace": "媒体办公地未核实",
+    "date": "2025-10-29",
+    "publicationTimestamp": "2025-10-29T06:00:07+00:00",
+    "dateEvidence": "原页 datePublished/article:published_time，转换至 Nigeria UTC+1；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "全国政策/项目背景",
+    "screeningProposal": "保留人道需求背景；总死亡、孕妇估计和服务量均非 FCT 分区病例。",
+    "note": "保留人道需求背景；总死亡、孕妇估计和服务量均非 FCT 分区病例。",
+    "evidence": "正文第1–4段的洪灾范围、Borno 暴力地点及全国受影响人口。",
+    "reviewPriority": "中",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "aggregate-not-local-cases"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-08-03",
+        "name": "Bama, Borno",
+        "adm1": "Borno",
+        "adm2": "Bama"
+      },
+      {
+        "code": "NGA-20230404-08-16",
+        "name": "Konduga, Borno",
+        "adm1": "Borno",
+        "adm2": "Konduga"
+      },
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://dailypost.ng/2025/10/29/nigerias-humanitarian-situation-deteriorates-unfpa/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "6c4d206e5da511f13ce3a24fb25dabfff750052ca07b141ba93f35c31d87e06b"
+    }
+  },
+  "516b336b6aea55ff": {
+    "articleId": "516b336b6aea55ff",
+    "title": "At IDPs confab 2025 : Stakeholders canvassed investments in education , health for women and girls",
+    "url": "https://blueprint.ng/at-idps-confab-2025-stakeholders-canvassed-investments-in-education-health-for-women-and-girls/",
+    "verifiedSourceUrl": "https://blueprint.ng/at-idps-confab-2025-stakeholders-canvassed-investments-in-education-health-for-women-and-girls/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "州/FCT",
+    "eventPlace": "Wassa IDP camp, Abuja 为项目地点；Yar’Adua Centre, Abuja 为会议地点",
+    "mentionedFacility": "",
+    "publisherPlace": "媒体办公地未核实",
+    "date": "2025-04-18",
+    "publicationTimestamp": "2025-04-18T16:18:26+01:00",
+    "dateEvidence": "原页 datePublished/article:published_time，转换至 Nigeria UTC+1；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "FCT项目/机构线索",
+    "screeningProposal": "有明确营地与会议地点，可作服务背景；不能根据 Wassa 名称推断 LGA 或病例坐标。",
+    "note": "有明确营地与会议地点，可作服务背景；不能根据 Wassa 名称推断 LGA 或病例坐标。",
+    "evidence": "正文 Wassa 营地 WELEAD 项目及 Yar’Adua Centre 会议段落。",
+    "reviewPriority": "中",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "lga-not-confirmed",
+      "venue-vs-service-area"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-08-21",
+        "name": "Maiduguri, Borno",
+        "adm1": "Borno",
+        "adm2": "Maiduguri"
+      },
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      },
+      {
+        "code": "NGA-20230404-19-09",
+        "name": "Kaduna North, Kaduna",
+        "adm1": "Kaduna",
+        "adm2": "Kaduna North"
+      },
+      {
+        "code": "NGA-20230404-19-19",
+        "name": "Sabon-Gari, Kaduna",
+        "adm1": "Kaduna",
+        "adm2": "Sabon-Gari"
+      },
+      {
+        "code": "NGA-20230404-36-04",
+        "name": "Fika, Yobe",
+        "adm1": "Yobe",
+        "adm2": "Fika"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://blueprint.ng/at-idps-confab-2025-stakeholders-canvassed-investments-in-education-health-for-women-and-girls/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "ff51cf0b4bca03925e97136b68c01e7c0039897e238ef7c694099dbc0f20b85d"
+    },
+    "spatialEvidence": [
+      {
+        "role": "项目服务地点",
+        "place": "Wassa IDP camp, Abuja",
+        "precision": "州/FCT"
+      },
+      {
+        "role": "会议地点",
+        "place": "Yar’Adua Centre, Abuja",
+        "precision": "州/FCT"
+      }
+    ]
+  },
+  "51799f62bbf8c21c": {
+    "articleId": "51799f62bbf8c21c",
+    "title": "FG raises concern over prevalence of Fistula , slams quack doctors",
+    "url": "https://dailypost.ng/2022/07/04/fg-raises-concern-over-prevalence-of-fistula-slams-quack-doctors/",
+    "verifiedSourceUrl": "https://dailypost.ng/2022/07/04/fg-raises-concern-over-prevalence-of-fistula-slams-quack-doctors/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；项目发布在 Abuja，历史瘘幸存者叙述涉及 Kano",
+    "mentionedFacility": "",
+    "publisherPlace": "媒体办公地未核实",
+    "date": "2022-07-04",
+    "publicationTimestamp": "2022-07-04T19:53:07+00:00",
+    "dateEvidence": "原页 datePublished/article:published_time，转换至 Nigeria UTC+1；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "case-context",
+    "screeningCategory": "外地区病例/治疗线索",
+    "screeningProposal": "有 Kano 相关历史患者叙述；年龄及病程表述存在不一致，不能当 FCT 病例或当前新发病例。",
+    "note": "有 Kano 相关历史患者叙述；年龄及病程表述存在不一致，不能当 FCT 病例或当前新发病例。",
+    "evidence": "正文 Abuja rollout 和受访者讲述 Kano 长期瘘病史的段落；全国新病例估计没有区级分配。",
+    "reviewPriority": "高",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": true,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "non-FCT-case-narrative",
+      "inconsistent-age-duration",
+      "historical-not-new-case"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      },
+      {
+        "code": "NGA-20230404-20-21",
+        "name": "Kano Municipal, Kano",
+        "adm1": "Kano",
+        "adm2": "Kano Municipal"
+      },
+      {
+        "code": "NGA-20230404-31-06",
+        "name": "Ibadan North, Oyo",
+        "adm1": "Oyo",
+        "adm2": "Ibadan North"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://dailypost.ng/2022/07/04/fg-raises-concern-over-prevalence-of-fistula-slams-quack-doctors/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "672d12903e1304afbfa6eddcca3b5a302dfa07a9ca24b29cf653e2e1bbd2289c"
+    }
+  },
+  "54d3178c91a28b2e": {
+    "articleId": "54d3178c91a28b2e",
+    "title": "FG Develops Five Health Promotion Policy Documents",
+    "url": "http://www.thetidenewsonline.com/2021/02/03/fg-develops-five-health-promotion-policy-documents/",
+    "verifiedSourceUrl": "https://www.thetidenewsonline.com/2021/02/fg-develops-five-health-promotion-policy-documents/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；卫生政策论坛在 Abuja",
+    "mentionedFacility": "",
+    "publisherPlace": "媒体办公地未核实",
+    "date": "2021-02-03",
+    "publicationTimestamp": "",
+    "dateEvidence": "原页文章 time 日期；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "全国政策/项目背景",
+    "screeningProposal": "仅按主文章识别全国卫生政策。页面后续 Lagos 培训等为推荐文章，须排除。",
+    "note": "仅按主文章识别全国卫生政策。页面后续 Lagos 培训等为推荐文章，须排除。",
+    "evidence": "主标题对应正文第1段介绍 Abuja 论坛及五份政策文件；后续内容跨越其他文章标题。",
+    "reviewPriority": "中",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "related-content-excluded"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      },
+      {
+        "code": "NGA-20230404-15-06",
+        "name": "Kwali, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Kwali"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://www.thetidenewsonline.com/2021/02/fg-develops-five-health-promotion-policy-documents/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "86c083a6af89decbdd49b1d67fc53e7f2b035263c4db648eca4774ac063d2aa0"
+    }
+  },
+  "56e80782a77392ec": {
+    "articleId": "56e80782a77392ec",
+    "title": "Obi : Advocacy on Women Rights Will Address Gender - based Violence",
+    "url": "https://www.thisdaylive.com/index.php/2021/09/09/obi-advocacy-on-womens-rights-will-address-gender-based-violence/",
+    "verifiedSourceUrl": "https://www.thisdaylive.com/2021/09/09/obi-advocacy-on-womens-rights-will-address-gender-based-violence/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "州/FCT",
+    "eventPlace": "FCT 五个 Area Council 的项目范围；点名 Kwali、Abaji",
+    "mentionedFacility": "",
+    "publisherPlace": "媒体办公地未核实",
+    "date": "2021-09-09",
+    "publicationTimestamp": "",
+    "dateEvidence": "仅 URL 日期线索；原页未取得绝对发表日期，待人工核实",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "FCT项目/机构线索",
+    "screeningProposal": "可保留 Kwali/Abaji 项目线索与传统接生员培训背景；没有对应孕产死亡/瘘病例数或地址。",
+    "note": "可保留 Kwali/Abaji 项目线索与传统接生员培训背景；没有对应孕产死亡/瘘病例数或地址。",
+    "evidence": "正文 MATAI 项目57社区、Kwali/Abaji儿童权利委员会和57名传统接生员培训段落。",
+    "reviewPriority": "中",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "program-area-not-case-area"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-08-01",
+        "name": "Abadam, Borno",
+        "adm1": "Borno",
+        "adm2": "Abadam"
+      },
+      {
+        "code": "NGA-20230404-08-16",
+        "name": "Konduga, Borno",
+        "adm1": "Borno",
+        "adm2": "Konduga"
+      },
+      {
+        "code": "NGA-20230404-08-22",
+        "name": "Marte, Borno",
+        "adm1": "Borno",
+        "adm2": "Marte"
+      },
+      {
+        "code": "NGA-20230404-15-01",
+        "name": "Abaji, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abaji"
+      },
+      {
+        "code": "NGA-20230404-15-06",
+        "name": "Kwali, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Kwali"
+      },
+      {
+        "code": "NGA-20230404-36-05",
+        "name": "Fune, Yobe",
+        "adm1": "Yobe",
+        "adm2": "Fune"
+      },
+      {
+        "code": "NGA-20230404-36-08",
+        "name": "Gulani, Yobe",
+        "adm1": "Yobe",
+        "adm2": "Gulani"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://www.thisdaylive.com/2021/09/09/obi-advocacy-on-womens-rights-will-address-gender-based-violence/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "d2dc23a94d1a79736e382155fee68e6d7457a91994cf4c53873235a547254106"
+    }
+  },
+  "5a7d6774104dcef8": {
+    "articleId": "5a7d6774104dcef8",
+    "title": "UNFPA executive director visits Nigeria to renew support for reproductive health , rights of women , girls",
+    "url": "https://quicknews-africa.net/unfpa-executive-director-visits-nigeria-to-renew-support-for-reproductive-health-rights-of-women-girls/",
+    "verifiedSourceUrl": "https://quicknews-africa.net/unfpa-executive-director-visits-nigeria-to-renew-support-for-reproductive-health-rights-of-women-girls/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria 访问行程；Abuja 医疗机构访问，另涉及 Benin",
+    "mentionedFacility": "UN Severe Acute Respiratory Isolation and Treatment Centre, Abuja",
+    "publisherPlace": "媒体办公地未核实",
+    "date": "2021-11-24",
+    "publicationTimestamp": "2021-11-24T16:52:18+00:00",
+    "dateEvidence": "原页 datePublished/article:published_time，转换至 Nigeria UTC+1；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "全国政策/项目背景",
+    "screeningProposal": "属于访问安排及倡议；Nairobi 是既往峰会背景，SARI 机构提及不验证产科能力。",
+    "note": "属于访问安排及倡议；Nairobi 是既往峰会背景，SARI 机构提及不验证产科能力。",
+    "evidence": "正文访问行程、Abuja SARI 机构、Benin 活动和2019 Nairobi峰会回顾。",
+    "reviewPriority": "中",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "facility-mention-not-capability"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://quicknews-africa.net/unfpa-executive-director-visits-nigeria-to-renew-support-for-reproductive-health-rights-of-women-girls/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "5ced20d9b15b3f0a82cc39243142f369f1a3bf4fe2a28f9a2d0a6698926837e0"
+    }
+  },
+  "5b283035469d4eee": {
+    "articleId": "5b283035469d4eee",
+    "title": "4 , 000 women benefit from free Cesarean section initiative - Health Minister",
+    "url": "https://www.premiumtimesng.com/health/health-news/788794-4000-women-benefit-from-free-cesarean-section-initiative-health-minister.html",
+    "verifiedSourceUrl": "https://www.premiumtimesng.com/health/health-news/788794-4000-women-benefit-from-free-cesarean-section-initiative-health-minister.html",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；2025 Safe Motherhood Day 媒体活动在 Abuja",
+    "mentionedFacility": "",
+    "publisherPlace": "媒体办公地未核实",
+    "date": "2025-04-18",
+    "publicationTimestamp": "2025-04-18T06:43:15+00:00",
+    "dateEvidence": "原页 datePublished/article:published_time，转换至 Nigeria UTC+1；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "全国政策/项目背景",
+    "screeningProposal": "4000名受益者是全国项目累计，不能定位至 Abuja 或拆成病例事件。",
+    "note": "4000名受益者是全国项目累计，不能定位至 Abuja 或拆成病例事件。",
+    "evidence": "正文全国免费剖宫产累计、Abuja媒体会议与瘘项目扩展段落。",
+    "reviewPriority": "中",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "national-cumulative-service-count"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://www.premiumtimesng.com/health/health-news/788794-4000-women-benefit-from-free-cesarean-section-initiative-health-minister.html",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "aca926bf039608869c4c304d24b565ce712d6cb7f3baab1497f04b056f202a20"
+    }
+  },
+  "5f41501a6ab60070": {
+    "articleId": "5f41501a6ab60070",
+    "title": "N720bn gap threatens Nigeria maternal , newborn health",
+    "url": "https://punchng.com/stakeholders-warn-n720bn-gap-threatens-maternal-newborn-health-goals/",
+    "verifiedSourceUrl": "https://punchng.com/stakeholders-warn-n720bn-gap-threatens-maternal-newborn-health-goals/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；融资圆桌会在 Abuja",
+    "mentionedFacility": "",
+    "publisherPlace": "媒体办公地未核实",
+    "date": "2026-07-14",
+    "publicationTimestamp": "2026-07-13T23:40:36+00:00",
+    "dateEvidence": "原页 datePublished/article:published_time，转换至 Nigeria UTC+1；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "全国政策/项目背景",
+    "screeningProposal": "保留国家融资与转诊障碍背景；文中多个死亡率/年度估计口径不同，不用作当地病例数。",
+    "note": "保留国家融资与转诊障碍背景；文中多个死亡率/年度估计口径不同，不用作当地病例数。",
+    "evidence": "正文 Abuja roundtable、融资缺口及全国PHC/孕产服务统计。",
+    "reviewPriority": "中",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "national-finance-context",
+      "mixed-statistical-definitions"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://punchng.com/stakeholders-warn-n720bn-gap-threatens-maternal-newborn-health-goals/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "a162b0ebded6573ba6c0ee8f1de38fc884c45bd75c895c32adc1feffe0f1bf9f"
+    }
+  },
+  "6ed97f2d63a92f81": {
+    "articleId": "6ed97f2d63a92f81",
+    "title": "USAID - MOMENTUM , FMH Undertake Free Training , Repair of VVF Patients in Ebonyi . ",
+    "url": "https://www.thenigerianvoice.com/news/309726/usaid-momentum-fmh-undertake-free-training-repair-of-vvf-p.html",
+    "verifiedSourceUrl": "https://www.thenigerianvoice.com/news/309726/usaid-momentum-fmh-undertake-free-training-repair-of-vvf-p.html",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "州/FCT",
+    "eventPlace": "Ebonyi；治疗/培训在 Abakaliki，患者发病居住地未知",
+    "mentionedFacility": "National Obstetric Fistula Centre, Abakaliki；Evangel VVF Centre 为受访者任职机构",
+    "publisherPlace": "受访卫生部人员来自 Abuja；不是治疗发生地",
+    "date": "2022-06-30",
+    "publicationTimestamp": "2022-06-30T08:27:00+01:00",
+    "dateEvidence": "原页 datePublished/article:published_time，转换至 Nigeria UTC+1；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "case-context",
+    "screeningCategory": "外地区病例/治疗线索",
+    "screeningProposal": "这是 Ebonyi 治疗及培训线索。20余例为计划修复，不是已完成数量；FCT 只在项目覆盖/卫生部人员来源中出现。",
+    "note": "这是 Ebonyi 治疗及培训线索。20余例为计划修复，不是已完成数量；FCT 只在项目覆盖/卫生部人员来源中出现。",
+    "evidence": "正文开头计划修复、Abakaliki培训场所，以及末段五州项目覆盖但培训试点在Ebonyi/Bauchi。",
+    "reviewPriority": "高",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": true,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "non-FCT-treatment-location",
+      "planned-not-completed",
+      "onset-location-unknown"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-05-02",
+        "name": "Bauchi",
+        "adm1": "Bauchi",
+        "adm2": ""
+      },
+      {
+        "code": "NGA-20230404-11-01",
+        "name": "Abakaliki, Ebonyi",
+        "adm1": "Ebonyi",
+        "adm2": "Abakaliki"
+      },
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      },
+      {
+        "code": "NGA-20230404-31-06",
+        "name": "Ibadan North, Oyo",
+        "adm1": "Oyo",
+        "adm2": "Ibadan North"
+      },
+      {
+        "code": "NGA-20230404-34-10",
+        "name": "Kebbe, Sokoto",
+        "adm1": "Sokoto",
+        "adm2": "Kebbe"
+      },
+      {
+        "code": "NGA-20230404-34-16",
+        "name": "Sokoto North, Sokoto",
+        "adm1": "Sokoto",
+        "adm2": "Sokoto North"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://www.thenigerianvoice.com/news/309726/usaid-momentum-fmh-undertake-free-training-repair-of-vvf-p.html",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "b97ad8daf17cfcf598bcac154d658a79d6cabe16c7f87a1799cf0e019ffa03b4"
+    }
+  },
+  "717342a436f1213e": {
+    "articleId": "717342a436f1213e",
+    "title": "Tackling obstetric fistula in Nigeria - Blueprint Newspapers Limited",
+    "url": "https://blueprint.ng/tackling-obstetric-fistula-in-nigeria/",
+    "verifiedSourceUrl": "https://blueprint.ng/tackling-obstetric-fistula-in-nigeria/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "多州：Kwara、Niger/Minna、Gombe；Abuja 为机构服务覆盖之一",
+    "mentionedFacility": "National Obstetric Fistula Centre（此文未明确具体院区）",
+    "publisherPlace": "媒体办公地未核实",
+    "date": "2025-05-11",
+    "publicationTimestamp": "2025-05-11T19:29:20+01:00",
+    "dateEvidence": "原页 datePublished/article:published_time，转换至 Nigeria UTC+1；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "case-context",
+    "screeningCategory": "外地区病例/治疗线索",
+    "screeningProposal": "多地治疗成果与幸存者叙事。Kwara71人、Minna累计手术、Gombe50人等不同口径不能合成FCT病例。",
+    "note": "多地治疗成果与幸存者叙事。Kwara71人、Minna累计手术、Gombe50人等不同口径不能合成FCT病例。",
+    "evidence": "正文各州治疗/康复段、BFFWH在Kaduna/Abuja/Zamfara服务覆盖段。",
+    "reviewPriority": "高",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": true,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "multistate-treatment-statistics",
+      "not-new-incidence"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NER-20240408-5-05",
+        "name": "Illéla, Tahoua",
+        "adm1": "Tahoua",
+        "adm2": "Illéla"
+      },
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      },
+      {
+        "code": "NGA-20230404-16-06",
+        "name": "Gombe",
+        "adm1": "Gombe",
+        "adm2": ""
+      },
+      {
+        "code": "NGA-20230404-19-09",
+        "name": "Kaduna North, Kaduna",
+        "adm1": "Kaduna",
+        "adm2": "Kaduna North"
+      },
+      {
+        "code": "NGA-20230404-27-06",
+        "name": "Chanchaga, Niger",
+        "adm1": "Niger",
+        "adm2": "Chanchaga"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://blueprint.ng/tackling-obstetric-fistula-in-nigeria/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "4ed8ac77af37792074e55051a3658811dc5f97522a2494c9147c1e153d822b6b"
+    }
+  },
+  "7236a87f36233675": {
+    "articleId": "7236a87f36233675",
+    "title": "As Tinubu Transforms Health Care Delivery System in the North in Two Years ... ",
+    "url": "https://www.thisdaylive.com/2025/07/31/as-tinubu-transforms-health-care-delivery-system-in-the-north-in-two-years/",
+    "verifiedSourceUrl": "https://www.thisdaylive.com/2025/07/31/as-tinubu-transforms-health-care-delivery-system-in-the-north-in-two-years/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria 北部19州及FCT相关机构；开篇分娩叙述在 Yobe",
+    "mentionedFacility": "University of Abuja Teaching Hospital, Gwagwalada；FMC Jabi；VVF Center, Gwarinpa Hospital（报道提及）",
+    "publisherPlace": "作者署名 Damaturu, Yobe；不是所有病例发生地",
+    "date": "2025-07-31",
+    "publicationTimestamp": "",
+    "dateEvidence": "仅 URL 日期线索；原页未取得绝对发表日期，待人工核实",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "FCT项目/机构线索",
+    "screeningProposal": "可记录报道中提及的机构及项目类型，不能据评论更新医院实时服务/接诊能力；FCT没有独立病例统计。",
+    "note": "可记录报道中提及的机构及项目类型，不能据评论更新医院实时服务/接诊能力；FCT没有独立病例统计。",
+    "evidence": "正文受益医院清单、Gwarinpa VVF清单、Yobe分娩开篇和作者署名。",
+    "reviewPriority": "高",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": true,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "facility-capability-unverified",
+      "commentary",
+      "non-FCT-anecdote"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NER-20240408-3-06",
+        "name": "Gaya, Dosso",
+        "adm1": "Dosso",
+        "adm2": "Gaya"
+      },
+      {
+        "code": "NGA-20230404-05-02",
+        "name": "Bauchi",
+        "adm1": "Bauchi",
+        "adm2": ""
+      },
+      {
+        "code": "NGA-20230404-05-10",
+        "name": "Itas/Gadau, Bauchi",
+        "adm1": "Bauchi",
+        "adm2": "Itas/Gadau"
+      },
+      {
+        "code": "NGA-20230404-05-12",
+        "name": "Katagum, Bauchi",
+        "adm1": "Bauchi",
+        "adm2": "Katagum"
+      },
+      {
+        "code": "NGA-20230404-05-14",
+        "name": "Misau, Bauchi",
+        "adm1": "Bauchi",
+        "adm2": "Misau"
+      },
+      {
+        "code": "NGA-20230404-05-15",
+        "name": "Ningi, Bauchi",
+        "adm1": "Bauchi",
+        "adm2": "Ningi"
+      },
+      {
+        "code": "NGA-20230404-07-10",
+        "name": "Konshisha, Benue",
+        "adm1": "Benue",
+        "adm2": "Konshisha"
+      },
+      {
+        "code": "NGA-20230404-07-13",
+        "name": "Makurdi, Benue",
+        "adm1": "Benue",
+        "adm2": "Makurdi"
+      },
+      {
+        "code": "NGA-20230404-08-21",
+        "name": "Maiduguri, Borno",
+        "adm1": "Borno",
+        "adm2": "Maiduguri"
+      },
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      },
+      {
+        "code": "NGA-20230404-16-05",
+        "name": "Funakaye, Gombe",
+        "adm1": "Gombe",
+        "adm2": "Funakaye"
+      },
+      {
+        "code": "NGA-20230404-16-06",
+        "name": "Gombe",
+        "adm1": "Gombe",
+        "adm2": ""
+      },
+      {
+        "code": "NGA-20230404-18-04",
+        "name": "Birni Kudu, Jigawa",
+        "adm1": "Jigawa",
+        "adm2": "Birni Kudu"
+      },
+      {
+        "code": "NGA-20230404-18-06",
+        "name": "Dutse, Jigawa",
+        "adm1": "Jigawa",
+        "adm2": "Dutse"
+      },
+      {
+        "code": "NGA-20230404-18-14",
+        "name": "Jahun, Jigawa",
+        "adm1": "Jigawa",
+        "adm2": "Jahun"
+      },
+      {
+        "code": "NGA-20230404-19-09",
+        "name": "Kaduna North, Kaduna",
+        "adm1": "Kaduna",
+        "adm2": "Kaduna North"
+      },
+      {
+        "code": "NGA-20230404-19-19",
+        "name": "Sabon-Gari, Kaduna",
+        "adm1": "Kaduna",
+        "adm2": "Sabon-Gari"
+      },
+      {
+        "code": "NGA-20230404-20-21",
+        "name": "Kano Municipal, Kano",
+        "adm1": "Kano",
+        "adm2": "Kano Municipal"
+      },
+      {
+        "code": "NGA-20230404-21-21",
+        "name": "Katsina",
+        "adm1": "Katsina",
+        "adm2": ""
+      },
+      {
+        "code": "NGA-20230404-22-06",
+        "name": "Birnin Kebbi, Kebbi",
+        "adm1": "Kebbi",
+        "adm2": "Birnin Kebbi"
+      },
+      {
+        "code": "NGA-20230404-24-06",
+        "name": "Ilorin East, Kwara",
+        "adm1": "Kwara",
+        "adm2": "Ilorin East"
+      },
+      {
+        "code": "NGA-20230404-27-17",
+        "name": "Mokwa, Niger",
+        "adm1": "Niger",
+        "adm2": "Mokwa"
+      },
+      {
+        "code": "NGA-20230404-27-21",
+        "name": "Rijau, Niger",
+        "adm1": "Niger",
+        "adm2": "Rijau"
+      },
+      {
+        "code": "NGA-20230404-34-10",
+        "name": "Kebbe, Sokoto",
+        "adm1": "Sokoto",
+        "adm2": "Kebbe"
+      },
+      {
+        "code": "NGA-20230404-34-16",
+        "name": "Sokoto North, Sokoto",
+        "adm1": "Sokoto",
+        "adm2": "Sokoto North"
+      },
+      {
+        "code": "NGA-20230404-36-03",
+        "name": "Damaturu, Yobe",
+        "adm1": "Yobe",
+        "adm2": "Damaturu"
+      },
+      {
+        "code": "NGA-20230404-36-04",
+        "name": "Fika, Yobe",
+        "adm1": "Yobe",
+        "adm2": "Fika"
+      },
+      {
+        "code": "NGA-20230404-36-05",
+        "name": "Fune, Yobe",
+        "adm1": "Yobe",
+        "adm2": "Fune"
+      },
+      {
+        "code": "NGA-20230404-37-07",
+        "name": "Gusau, Zamfara",
+        "adm1": "Zamfara",
+        "adm2": "Gusau"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://www.thisdaylive.com/2025/07/31/as-tinubu-transforms-health-care-delivery-system-in-the-north-in-two-years/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "c347f5c5b3fa9355e21339138428fd787df5eb60cd49047adb4717404001691d"
+    }
+  },
+  "77f2a4d6614581a1": {
+    "articleId": "77f2a4d6614581a1",
+    "title": "Women Health is a Human Right That Must Be Fought and Won",
+    "url": "https://articles.nigeriahealthwatch.com/womens-health-is-a-human-right-that-must-be-fought-and-won/",
+    "verifiedSourceUrl": "https://nigeriahealthwatch.com/articles/thought-leadership/womens-health-is-a-human-right-that-must-be-fought-and-won/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；Lagos/Abuja 是慢病研究样本地，Borno 是开篇情景",
+    "mentionedFacility": "",
+    "publisherPlace": "媒体独立办公地未核实",
+    "date": "2025-05-28",
+    "publicationTimestamp": "2025-05-28T15:53:20+00:00",
+    "dateEvidence": "原页 datePublished/article:published_time，转换至 Nigeria UTC+1；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "research-context",
+    "screeningCategory": "历史研究/统计背景",
+    "screeningProposal": "保留全国妇女健康及研究背景；与 AllAfrica 同稿，不能把研究样本或情景化开篇当FCT产科病例。",
+    "note": "保留全国妇女健康及研究背景；与 AllAfrica 同稿，不能把研究样本或情景化开篇当FCT产科病例。",
+    "evidence": "原发布方正文研究参与者地域、全国健康指标和开篇Borno情景；AllAfrica明确链接该原稿。",
+    "reviewPriority": "中",
+    "duplicateGroup": "NHW-WOMENS-HEALTH-2025-05-28",
+    "duplicateStatus": "AI疑似同稿/同事件，待人工确认",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "possible-republication",
+      "study-not-obstetric-case"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-08-16",
+        "name": "Konduga, Borno",
+        "adm1": "Borno",
+        "adm2": "Konduga"
+      },
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      },
+      {
+        "code": "NGA-20230404-15-06",
+        "name": "Kwali, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Kwali"
+      },
+      {
+        "code": "NGA-20230404-25-14",
+        "name": "Lagos Island, Lagos",
+        "adm1": "Lagos",
+        "adm2": "Lagos Island"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://nigeriahealthwatch.com/articles/thought-leadership/womens-health-is-a-human-right-that-must-be-fought-and-won/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "864f98411989f3a5cad0d8f5f71069418580fe97694f85ae373ac64a82b9ae59"
+    }
+  },
+  "7f2f5294cf94526b": {
+    "articleId": "7f2f5294cf94526b",
+    "title": "  Who is the Practitioner , Without a Teacher ? – THISDAYLIVE",
+    "url": "https://www.thisdaylive.com/index.php/2023/01/10/who-is-the-practitioner-without-a-teacher/",
+    "verifiedSourceUrl": "https://www.thisdaylive.com/2023/01/10/who-is-the-practitioner-without-a-teacher/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria多地法律服务；文中孕妇枪击事件在 Ajah, Lagos",
+    "mentionedFacility": "TAMAR Sexual Assault Referral Centre（未在此文确认院址）",
+    "publisherPlace": "媒体办公地未核实；Abuja也出现在机构办公室清单中",
+    "date": "2023-01-10",
+    "publicationTimestamp": "",
+    "dateEvidence": "仅 URL 日期线索；原页未取得绝对发表日期，待人工核实",
+    "eventDate": null,
+    "signalKind": "other",
+    "screeningCategory": "非目标个案/综合评论",
+    "screeningProposal": "孕妇死亡叙述涉及 Lagos 暴力事件，不属于此转诊模型的产科并发症事件；FCT为办公室/司法辖区等角色。",
+    "note": "孕妇死亡叙述涉及 Lagos 暴力事件，不属于此转诊模型的产科并发症事件；FCT为办公室/司法辖区等角色。",
+    "evidence": "正文WACOL办公室清单、法律诊所统计、Ajah警方枪击孕妇的问题段落。",
+    "reviewPriority": "高",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": true,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "non-FCT-death-narrative",
+      "non-obstetric-cause",
+      "office-not-case-location"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "ARE-20230524-2",
+        "name": "Dubai",
+        "adm1": "Dubai",
+        "adm2": ""
+      },
+      {
+        "code": "NGA-20230404-12-18",
+        "name": "Uhunmwonde, Edo",
+        "adm1": "Edo",
+        "adm2": "Uhunmwonde"
+      },
+      {
+        "code": "NGA-20230404-14-04",
+        "name": "Enugu North, Enugu",
+        "adm1": "Enugu",
+        "adm2": "Enugu North"
+      },
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      },
+      {
+        "code": "NGA-20230404-15-06",
+        "name": "Kwali, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Kwali"
+      },
+      {
+        "code": "NGA-20230404-17-26",
+        "name": "Owerri-Municipal, Imo",
+        "adm1": "Imo",
+        "adm2": "Owerri-Municipal"
+      },
+      {
+        "code": "NGA-20230404-23-18",
+        "name": "Olamabolo, Kogi",
+        "adm1": "Kogi",
+        "adm2": "Olamabolo"
+      },
+      {
+        "code": "NGA-20230404-25-07",
+        "name": "Epe, Lagos",
+        "adm1": "Lagos",
+        "adm2": "Epe"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://www.thisdaylive.com/2023/01/10/who-is-the-practitioner-without-a-teacher/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "a737b454596087599597ad1c6e7c65060b437dfcb7328b186ea5abfb50f680b5"
+    }
+  },
+  "84d1a308e4508bcc": {
+    "articleId": "84d1a308e4508bcc",
+    "title": "Breaking barriers to sexual and reproductive health services for women , girls",
+    "url": "https://thenationonlineng.net/breaking-barriers-to-sexual-and-reproductive-health-services-for-women-girls/",
+    "verifiedSourceUrl": "https://thenationonlineng.net/breaking-barriers-to-sexual-and-reproductive-health-services-for-women-girls/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站网页读取（HTTP脚本受限，网页工具取得正文）",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "州/FCT",
+    "eventPlace": "全国SRH背景；叙事仅称学校位于 Abuja 郊区，袭击地点不明确",
+    "mentionedFacility": "Marie Stopes Nigeria 为受访机构；未定位治疗医院",
+    "publisherPlace": "媒体办公地未核实",
+    "date": "2021-12-23",
+    "publicationTimestamp": "",
+    "dateEvidence": "原页可见日期（网页读取）",
+    "eventDate": null,
+    "signalKind": "other",
+    "screeningCategory": "非目标个案/综合评论",
+    "screeningProposal": "未成年人受害及妊娠叙事需谨慎：学校在FCT不证明袭击/病例发生在FCT；无LGA或目标瘘/孕产死亡事件。",
+    "note": "未成年人受害及妊娠叙事需谨慎：学校在FCT不证明袭击/病例发生在FCT；无LGA或目标瘘/孕产死亡事件。",
+    "evidence": "原页开头奖学金学校地点与随后受害妊娠叙述分开；后续为全国SRH政策访谈。",
+    "reviewPriority": "高",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": true,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "school-not-case-location",
+      "minor-no-identifying-location",
+      "target-case-not-established"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      },
+      {
+        "code": "NGA-20230404-15-06",
+        "name": "Kwali, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Kwali"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 403,
+      "attempts": [
+        {
+          "url": "https://thenationonlineng.net/breaking-barriers-to-sexual-and-reproductive-health-services-for-women-girls/",
+          "status": 403
+        }
+      ],
+      "error": "",
+      "responseSha256": "43a96001f4c9e0242bb1dcd96f9a4111f182146a9d7c0fe18e59972738bdd5f7"
+    }
+  },
+  "8687d85b1fc44ff5": {
+    "articleId": "8687d85b1fc44ff5",
+    "title": "Alarming exodus of health professionals - Punch Newspapers",
+    "url": "https://punchng.com/alarming-exodus-of-health-professionals/",
+    "verifiedSourceUrl": "https://punchng.com/alarming-exodus-of-health-professionals/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；Abuja 是海外招聘活动地点之一",
+    "mentionedFacility": "",
+    "publisherPlace": "媒体办公地未核实",
+    "date": "2022-01-16",
+    "publicationTimestamp": "2022-01-15T23:20:13+00:00",
+    "dateEvidence": "原页 datePublished/article:published_time，转换至 Nigeria UTC+1；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "全国政策/项目背景",
+    "screeningProposal": "全国医护外流评论；Abuja招聘活动不能作当地病例或医院人手实测。",
+    "note": "全国医护外流评论；Abuja招聘活动不能作当地病例或医院人手实测。",
+    "evidence": "正文医护流出、Lagos/Abuja招聘及全国设施/人力评论。",
+    "reviewPriority": "中",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "commentary-not-live-capacity"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      },
+      {
+        "code": "NGA-20230404-25-14",
+        "name": "Lagos Island, Lagos",
+        "adm1": "Lagos",
+        "adm2": "Lagos Island"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://punchng.com/alarming-exodus-of-health-professionals/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "3e2df17d5c18a49796396b02386af9ea647057029098c85db04b183be07851cd"
+    }
+  },
+  "8894d52db951bf21": {
+    "articleId": "8894d52db951bf21",
+    "title": "NHIA : No woman should die over inability to pay",
+    "url": "https://quicknews-africa.net/nhia-no-woman-should-die-over-inability-to-pay/",
+    "verifiedSourceUrl": "https://quicknews-africa.net/nhia-no-woman-should-die-over-inability-to-pay/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；NAN采访在 Abuja",
+    "mentionedFacility": "",
+    "publisherPlace": "NAN新闻电头Abuja；媒体办公地未核实",
+    "date": "2026-03-13",
+    "publicationTimestamp": "2026-03-13T12:22:51+00:00",
+    "dateEvidence": "原页 datePublished/article:published_time，转换至 Nigeria UTC+1；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "全国政策/项目背景",
+    "screeningProposal": "与 Premium Times 同一 NHIA 采访及政策内容；按同稿候选处理，不能重复计服务人数。",
+    "note": "与 Premium Times 同一 NHIA 采访及政策内容；按同稿候选处理，不能重复计服务人数。",
+    "evidence": "正文电头2026-03-13、Ohiri/NAN采访、免预付与报销政策段落。",
+    "reviewPriority": "中",
+    "duplicateGroup": "NAN-NHIA-OHIRI-2026-03-13",
+    "duplicateStatus": "AI疑似同稿/同事件，待人工确认",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://quicknews-africa.net/nhia-no-woman-should-die-over-inability-to-pay/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "f5004c896e09d0de304aba3e8b17a7f5147e92211c96249a8c8bac76f239f778"
+    }
+  },
+  "8df5b01cab2a5db4": {
+    "articleId": "8df5b01cab2a5db4",
+    "title": "UNFPA , GAC start national landscape survey on SGBV , HTPs in Nigeria",
+    "url": "https://punchng.com/unfpa-gac-start-national-landscape-survey-on-sgbv-htps-in-nigeria/",
+    "verifiedSourceUrl": "https://punchng.com/unfpa-gac-start-national-landscape-survey-on-sgbv-htps-in-nigeria/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria 12州及FCT调查覆盖；发布声明在 Abuja",
+    "mentionedFacility": "",
+    "publisherPlace": "声明发布地Abuja；媒体办公地未核实",
+    "date": "2021-08-13",
+    "publicationTimestamp": "2021-08-13T08:48:32+00:00",
+    "dateEvidence": "原页 datePublished/article:published_time，转换至 Nigeria UTC+1；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "research-context",
+    "screeningCategory": "历史研究/统计背景",
+    "screeningProposal": "文章宣布调查启动，不是调查结果，更不含FCT区级瘘病例数。正文45天与起止日期并不一致，需复核。",
+    "note": "文章宣布调查启动，不是调查结果，更不含FCT区级瘘病例数。正文45天与起止日期并不一致，需复核。",
+    "evidence": "正文列12州及FCT、调查目的，写明2021-08-11至09-14并称45天。",
+    "reviewPriority": "高",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "survey-announcement-not-results",
+      "duration-date-inconsistency"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-05-02",
+        "name": "Bauchi",
+        "adm1": "Bauchi",
+        "adm2": ""
+      },
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      },
+      {
+        "code": "NGA-20230404-15-06",
+        "name": "Kwali, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Kwali"
+      },
+      {
+        "code": "NGA-20230404-19-09",
+        "name": "Kaduna North, Kaduna",
+        "adm1": "Kaduna",
+        "adm2": "Kaduna North"
+      },
+      {
+        "code": "NGA-20230404-34-16",
+        "name": "Sokoto North, Sokoto",
+        "adm1": "Sokoto",
+        "adm2": "Sokoto North"
+      },
+      {
+        "code": "NGA-20230404-34-21",
+        "name": "Wamako, Sokoto",
+        "adm1": "Sokoto",
+        "adm2": "Wamako"
+      },
+      {
+        "code": "NGA-20230404-36-04",
+        "name": "Fika, Yobe",
+        "adm1": "Yobe",
+        "adm2": "Fika"
+      },
+      {
+        "code": "NGA-20230404-37-10",
+        "name": "Maru, Zamfara",
+        "adm1": "Zamfara",
+        "adm2": "Maru"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://punchng.com/unfpa-gac-start-national-landscape-survey-on-sgbv-htps-in-nigeria/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "280855d6fb18d288f272a63a35827fd2874cb78bbfd04f4dc46482aa8db50e81"
+    }
+  },
+  "8f1da50b6c8a8c9d": {
+    "articleId": "8f1da50b6c8a8c9d",
+    "title": "Women minister and advocacy for vocational training in school curriculum – Blueprint Newspapers Limited",
+    "url": "https://blueprint.ng/women-minister-and-advocacy-for-vocational-training-in-schools-curriculum/",
+    "verifiedSourceUrl": "https://blueprint.ng/women-minister-and-advocacy-for-vocational-training-in-schools-curriculum/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；FCT为多地SGBV概述之一，Abuja为大学任职/声明地点",
+    "mentionedFacility": "University of Abuja为受访者任职机构，非转诊医院",
+    "publisherPlace": "卫生部声明署名Abuja；媒体办公地未核实",
+    "date": "2023-09-16",
+    "publicationTimestamp": "2023-09-16T05:04:45+01:00",
+    "dateEvidence": "原页 datePublished/article:published_time，转换至 Nigeria UTC+1；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "全国政策/项目背景",
+    "screeningProposal": "职业培训倡议与全国风险概述；不能把大学地址、声明地和未分区SGBV描述转成产科病例。",
+    "note": "职业培训倡议与全国风险概述；不能把大学地址、声明地和未分区SGBV描述转成产科病例。",
+    "evidence": "正文University of Abuja受访者、UNICEF列举多州/FCT及声明来源段落。",
+    "reviewPriority": "中",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "affiliation-not-case-location"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      },
+      {
+        "code": "NGA-20230404-20-19",
+        "name": "Gwarzo, Kano",
+        "adm1": "Kano",
+        "adm2": "Gwarzo"
+      },
+      {
+        "code": "NGA-20230404-20-21",
+        "name": "Kano Municipal, Kano",
+        "adm1": "Kano",
+        "adm2": "Kano Municipal"
+      },
+      {
+        "code": "NGA-20230404-21-21",
+        "name": "Katsina",
+        "adm1": "Katsina",
+        "adm2": ""
+      },
+      {
+        "code": "NGA-20230404-25-14",
+        "name": "Lagos Island, Lagos",
+        "adm1": "Lagos",
+        "adm2": "Lagos Island"
+      },
+      {
+        "code": "NGA-20230404-31-20",
+        "name": "Lagelu, Oyo",
+        "adm1": "Oyo",
+        "adm2": "Lagelu"
+      },
+      {
+        "code": "NGA-20230404-34-16",
+        "name": "Sokoto North, Sokoto",
+        "adm1": "Sokoto",
+        "adm2": "Sokoto North"
+      },
+      {
+        "code": "NGA-20230404-36-04",
+        "name": "Fika, Yobe",
+        "adm1": "Yobe",
+        "adm2": "Fika"
+      },
+      {
+        "code": "NGA-20230404-36-05",
+        "name": "Fune, Yobe",
+        "adm1": "Yobe",
+        "adm2": "Fune"
+      },
+      {
+        "code": "NGA-20230404-37-10",
+        "name": "Maru, Zamfara",
+        "adm1": "Zamfara",
+        "adm2": "Maru"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://blueprint.ng/women-minister-and-advocacy-for-vocational-training-in-schools-curriculum/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "696f6f452fea91112e765c80dfd605e73c287660bc739ca0071a5e8fbb5145a4"
+    }
+  },
+  "8f76427ad3a1fe7f": {
+    "articleId": "8f76427ad3a1fe7f",
+    "title": "Assessing FG Protective Efforts in COVID - 19 Era",
+    "url": "https://www.thisdaylive.com/index.php/2021/10/14/assessing-fgs-protective-efforts-in-covid-19-era/",
+    "verifiedSourceUrl": "https://www.thisdaylive.com/2021/10/14/assessing-fgs-protective-efforts-in-covid-19-era/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；Lagos/FCT/Ogun为封控/救助范围，另述西北四州研究",
+    "mentionedFacility": "",
+    "publisherPlace": "媒体办公地未核实",
+    "date": "2021-10-14",
+    "publicationTimestamp": "",
+    "dateEvidence": "仅 URL 日期线索；原页未取得绝对发表日期，待人工核实",
+    "eventDate": null,
+    "signalKind": "other",
+    "screeningCategory": "非目标个案/综合评论",
+    "screeningProposal": "保留社会保障背景，非产科病例报道；FCT是封控和救助政策范围。",
+    "note": "保留社会保障背景，非产科病例报道；FCT是封控和救助政策范围。",
+    "evidence": "正文封控地区救助、养老金覆盖和残疾人社会保障研究段落。",
+    "reviewPriority": "中",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-06",
+        "name": "Kwali, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Kwali"
+      },
+      {
+        "code": "NGA-20230404-19-09",
+        "name": "Kaduna North, Kaduna",
+        "adm1": "Kaduna",
+        "adm2": "Kaduna North"
+      },
+      {
+        "code": "NGA-20230404-20-19",
+        "name": "Gwarzo, Kano",
+        "adm1": "Kano",
+        "adm2": "Gwarzo"
+      },
+      {
+        "code": "NGA-20230404-20-21",
+        "name": "Kano Municipal, Kano",
+        "adm1": "Kano",
+        "adm2": "Kano Municipal"
+      },
+      {
+        "code": "NGA-20230404-25-14",
+        "name": "Lagos Island, Lagos",
+        "adm1": "Lagos",
+        "adm2": "Lagos Island"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://www.thisdaylive.com/2021/10/14/assessing-fgs-protective-efforts-in-covid-19-era/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "6ebe384acd2a4401e8c0afda84d93c92a4b389b0437d6748e184ff5b37fccc3e"
+    }
+  },
+  "a344e6e48b338021": {
+    "articleId": "a344e6e48b338021",
+    "title": "Sustainable Development : President Buhari Laucnhes Revised Population Policy",
+    "url": "https://www.thenews-chronicle.com/sustainable-development-president-buhari-laucnhes-revised-population-policy/",
+    "verifiedSourceUrl": "https://www.thenews-chronicle.com/sustainable-development-president-buhari-laucnhes-revised-population-policy/",
+    "sourceVerification": "原文不可访问",
+    "sourceAccessMethod": "原站访问检查",
+    "screeningStatus": "访问检查完成，需补原文后复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "待核查",
+    "eventPlace": "",
+    "mentionedFacility": "",
+    "publisherPlace": "未取得原文，不能核实",
+    "date": "",
+    "publicationTimestamp": "",
+    "dateEvidence": "未取得可靠发表日期，不从导出时间推断",
+    "eventDate": null,
+    "signalKind": "pending",
+    "screeningCategory": "原文受限",
+    "screeningProposal": "原站403，网页读取亦失败；不依据DIOS摘要确认活动地点、日期或病例。",
+    "note": "原站403，网页读取亦失败；不依据DIOS摘要确认活动地点、日期或病例。",
+    "evidence": "2026-11-11原始链接访问403；只取得访问拒绝页，无可读正文。",
+    "reviewPriority": "高",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "needs-original-text"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 403,
+      "attempts": [
+        {
+          "url": "https://www.thenews-chronicle.com/sustainable-development-president-buhari-laucnhes-revised-population-policy/",
+          "status": 403
+        }
+      ],
+      "error": "",
+      "responseSha256": "ab8a74e23c1fb9bc4ca1ec7c5a8782bf29678d274a1ef77551de275de7a342d0"
+    }
+  },
+  "ab6c2e3fa9db8510": {
+    "articleId": "ab6c2e3fa9db8510",
+    "title": "29 Women Complete Leadership Programme to Strengthen Nigeria Health Sector – THISDAYLIVE",
+    "url": "https://www.thisdaylive.com/2026/04/20/29-women-complete-leadership-programme-to-strengthen-nigerias-health-sector/",
+    "verifiedSourceUrl": "https://www.thisdaylive.com/2026/04/20/29-women-complete-leadership-programme-to-strengthen-nigerias-health-sector/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；女性医疗领导力结业活动在 Abuja",
+    "mentionedFacility": "",
+    "publisherPlace": "媒体办公地未核实",
+    "date": "2026-04-20",
+    "publicationTimestamp": "",
+    "dateEvidence": "仅 URL 日期线索；原页未取得绝对发表日期，待人工核实",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "全国政策/项目背景",
+    "screeningProposal": "29名是领导力项目学员，不是患者；Abuja是活动地点，孕产死亡率只是国家背景。",
+    "note": "29名是领导力项目学员，不是患者；Abuja是活动地点，孕产死亡率只是国家背景。",
+    "evidence": "正文2025 Leadership Journey结业、Abuja Lift-Off活动和国家健康背景段落。",
+    "reviewPriority": "中",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://www.thisdaylive.com/2026/04/20/29-women-complete-leadership-programme-to-strengthen-nigerias-health-sector/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "bf23f75b833182387d6ba56ebc80f70dc09f4a8e7eabd65edf1f8f95896b0494"
+    }
+  },
+  "c0b527c864b8f147": {
+    "articleId": "c0b527c864b8f147",
+    "title": "NHSRII pilot joint missions to boost maternal care coordination",
+    "url": "https://quicknews-africa.net/nhsrii-pilot-joint-missions-to-boost-maternal-care-coordination/",
+    "verifiedSourceUrl": "https://quicknews-africa.net/nhsrii-pilot-joint-missions-to-boost-maternal-care-coordination/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；NHSRII联合走访方案采访在 Abuja",
+    "mentionedFacility": "",
+    "publisherPlace": "NAN新闻电头Abuja；媒体办公地未核实",
+    "date": "2026-03-26",
+    "publicationTimestamp": "2026-03-26T10:45:29+00:00",
+    "dateEvidence": "原页 datePublished/article:published_time，转换至 Nigeria UTC+1；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "全国政策/项目背景",
+    "screeningProposal": "可作转诊协同背景；没有具体FCT病例起点、目的医院或接收记录。",
+    "note": "可作转诊协同背景；没有具体FCT病例起点、目的医院或接收记录。",
+    "evidence": "正文2026-03-26 NAN采访、joint missions与referral facilities协调方案。",
+    "reviewPriority": "中",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://quicknews-africa.net/nhsrii-pilot-joint-missions-to-boost-maternal-care-coordination/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "3761b44b1dff7eb2ddd8e1168411b75328d76434cf78caea4905997197f3eaf0"
+    }
+  },
+  "c3fcdcb521acc0ae": {
+    "articleId": "c3fcdcb521acc0ae",
+    "title": "Gynaecologist Shortage Worsens Nigeria Maternal Health",
+    "url": "https://punchng.com/nigeria-struggles-with-2200-gynaecologists-for-seven-million-births-annually/",
+    "verifiedSourceUrl": "https://punchng.com/nigeria-struggles-with-2200-gynaecologists-for-seven-million-births-annually/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；Lagos/Abuja等为医生分布城市，另述多州短缺",
+    "mentionedFacility": "",
+    "publisherPlace": "媒体办公地未核实",
+    "date": "2026-02-15",
+    "publicationTimestamp": "2026-02-15T06:08:22+00:00",
+    "dateEvidence": "原页 datePublished/article:published_time，转换至 Nigeria UTC+1；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "全国政策/项目背景",
+    "screeningProposal": "全国专业人员短缺报道，不能把Abuja医生集中等同FCT各医院实时能力；不同历史统计口径需核对。",
+    "note": "全国专业人员短缺报道，不能把Abuja医生集中等同FCT各医院实时能力；不同历史统计口径需核对。",
+    "evidence": "正文医生数量、Lagos/Abuja集中及各州人力对比；不是逐院人员清单。",
+    "reviewPriority": "中",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "distribution-not-cases",
+      "statistics-not-validated"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-12-18",
+        "name": "Uhunmwonde, Edo",
+        "adm1": "Edo",
+        "adm2": "Uhunmwonde"
+      },
+      {
+        "code": "NGA-20230404-14-04",
+        "name": "Enugu North, Enugu",
+        "adm1": "Enugu",
+        "adm2": "Enugu North"
+      },
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      },
+      {
+        "code": "NGA-20230404-20-19",
+        "name": "Gwarzo, Kano",
+        "adm1": "Kano",
+        "adm2": "Gwarzo"
+      },
+      {
+        "code": "NGA-20230404-20-21",
+        "name": "Kano Municipal, Kano",
+        "adm1": "Kano",
+        "adm2": "Kano Municipal"
+      },
+      {
+        "code": "NGA-20230404-25-14",
+        "name": "Lagos Island, Lagos",
+        "adm1": "Lagos",
+        "adm2": "Lagos Island"
+      },
+      {
+        "code": "NGA-20230404-27-16",
+        "name": "Mashegu, Niger",
+        "adm1": "Niger",
+        "adm2": "Mashegu"
+      },
+      {
+        "code": "NGA-20230404-33-22",
+        "name": "Port-Harcourt, Rivers",
+        "adm1": "Rivers",
+        "adm2": "Port-Harcourt"
+      },
+      {
+        "code": "NGA-20230404-34-10",
+        "name": "Kebbe, Sokoto",
+        "adm1": "Sokoto",
+        "adm2": "Kebbe"
+      },
+      {
+        "code": "NGA-20230404-37-08",
+        "name": "Kaura Namoda, Zamfara",
+        "adm1": "Zamfara",
+        "adm2": "Kaura Namoda"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://punchng.com/nigeria-struggles-with-2200-gynaecologists-for-seven-million-births-annually/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "85b6728e9991a06d79dcd754a8628afa19e828606146ed19e6a4d82255c8dfee"
+    }
+  },
+  "c42df9f3481ed4d6": {
+    "articleId": "c42df9f3481ed4d6",
+    "title": "UNFPA : 2 , 000 Girls  Saved  from Child Marriage in Three Years – THISDAYLIVE",
+    "url": "https://www.thisdaylive.com/index.php/2022/09/08/unfpa-2000-girls-saved-from-child-marriage-in-three-years/",
+    "verifiedSourceUrl": "https://www.thisdaylive.com/2022/09/08/unfpa-2000-girls-saved-from-child-marriage-in-three-years/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；报告发布在 State House, Abuja",
+    "mentionedFacility": "",
+    "publisherPlace": "媒体办公地未核实",
+    "date": "2022-09-08",
+    "publicationTimestamp": "",
+    "dateEvidence": "仅 URL 日期线索；原页未取得绝对发表日期，待人工核实",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "全国政策/项目背景",
+    "screeningProposal": "与既有20,000标题记录为同发布活动候选；2000脱离童婚与20000留校是不同指标，不能互换。",
+    "note": "与既有20,000标题记录为同发布活动候选；2000脱离童婚与20000留校是不同指标，不能互换。",
+    "evidence": "正文开头20000留校、State House发布及后续不同项目指标；与既有同日THISDAY记录对照。",
+    "reviewPriority": "高",
+    "duplicateGroup": "UNFPA-LANDSCAPE-LAUNCH-2022-09-08",
+    "duplicateStatus": "AI疑似同稿/同事件，待人工确认",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "headline-number-different-measures"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://www.thisdaylive.com/2022/09/08/unfpa-2000-girls-saved-from-child-marriage-in-three-years/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "fc0ecf1c5fc803aee42ffbe374b9665b1754ea049de405b75e74a4e6b74173ce"
+    }
+  },
+  "caa433cb2a394304": {
+    "articleId": "caa433cb2a394304",
+    "title": "We are revolutionising Nigeria healthcare system , setting African benchmark – Pate National Accord Newspaper",
+    "url": "https://www.nationalaccordnewspaper.com/we-are-revolutionising-nigerias-healthcare-system-setting-african-benchmark-pate/",
+    "verifiedSourceUrl": "https://nationalaccordnewspaper.com/we-are-revolutionising-nigerias-healthcare-system-setting-african-benchmark-pate/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "州/FCT",
+    "eventPlace": "Nigeria全国改革；FCT Karmo PHC 为服务体验举例",
+    "mentionedFacility": "Karmo Primary Healthcare Centre, FCT",
+    "publisherPlace": "NAN采访在Abuja；媒体办公地未核实",
+    "date": "2024-12-28",
+    "publicationTimestamp": "2024-12-28T06:30:14+01:00",
+    "dateEvidence": "原页 datePublished/article:published_time，转换至 Nigeria UTC+1；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "FCT项目/机构线索",
+    "screeningProposal": "可作为Karmo机构报道线索，但新闻中满意度/产检增长不能验证临床能力或接诊状态；病例发生地址未知。",
+    "note": "可作为Karmo机构报道线索，但新闻中满意度/产检增长不能验证临床能力或接诊状态；病例发生地址未知。",
+    "evidence": "正文第17–18段Karmo PHC与孕产服务体验举例，前文为全国改革采访。",
+    "reviewPriority": "高",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "facility-identity-not-crossmatched",
+      "not-live-capability"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      },
+      {
+        "code": "NGA-20230404-15-06",
+        "name": "Kwali, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Kwali"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://nationalaccordnewspaper.com/we-are-revolutionising-nigerias-healthcare-system-setting-african-benchmark-pate/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "397bf41b4beec67c2d01bafc4b7fca3832d9720256766d380b7940ddf5310ce5"
+    }
+  },
+  "d5b76079c207ee58": {
+    "articleId": "d5b76079c207ee58",
+    "title": "WPD 2025 : A call for youth empowerment",
+    "url": "https://punchng.com/wpd-2025-a-call-for-youth-empowerment/",
+    "verifiedSourceUrl": "https://punchng.com/wpd-2025-a-call-for-youth-empowerment/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria及全球；Lagos/Abuja/Port Harcourt为城市增长例子",
+    "mentionedFacility": "",
+    "publisherPlace": "媒体办公地未核实",
+    "date": "2025-07-11",
+    "publicationTimestamp": "2025-07-10T23:25:29+00:00",
+    "dateEvidence": "原页 datePublished/article:published_time，转换至 Nigeria UTC+1；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "other",
+    "screeningCategory": "非目标个案/综合评论",
+    "screeningProposal": "人口与青年赋权评论；Abuja仅为城市基础设施例子，无产科病例位置。",
+    "note": "人口与青年赋权评论；Abuja仅为城市基础设施例子，无产科病例位置。",
+    "evidence": "正文World Population Day、国家人口趋势及城市基础设施讨论。",
+    "reviewPriority": "中",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      },
+      {
+        "code": "NGA-20230404-25-14",
+        "name": "Lagos Island, Lagos",
+        "adm1": "Lagos",
+        "adm2": "Lagos Island"
+      },
+      {
+        "code": "NGA-20230404-33-22",
+        "name": "Port-Harcourt, Rivers",
+        "adm1": "Rivers",
+        "adm2": "Port-Harcourt"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://punchng.com/wpd-2025-a-call-for-youth-empowerment/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "3faf882ef6642e66ad3dbf6cf73f0be6751e6f238a986748aae7d682112c3b34"
+    }
+  },
+  "d80a2643f2d33cf9": {
+    "articleId": "d80a2643f2d33cf9",
+    "title": "High Mortality Rate : FG Set To Unveil Natl Emergency Medical Service – :::… The Tide News Online :::… ",
+    "url": "http://www.thetidenewsonline.com/2021/04/14/high-mortality-rate-fg-set-to-unveil-natl-emergency-medical-service/",
+    "verifiedSourceUrl": "https://www.thetidenewsonline.com/2021/04/high-mortality-rate-fg-set-to-unveil-natl-emergency-medical-service/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；急救政策媒体活动在 Abuja",
+    "mentionedFacility": "",
+    "publisherPlace": "媒体办公地未核实",
+    "date": "2021-04-14",
+    "publicationTimestamp": "",
+    "dateEvidence": "原页文章 time 日期；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "全国政策/项目背景",
+    "screeningProposal": "当前主文章未找到DIOS摘要所说孕妇/婴儿因道路问题死亡的依据；标记摘要不一致，不生成病例。",
+    "note": "当前主文章未找到DIOS摘要所说孕妇/婴儿因道路问题死亡的依据；标记摘要不一致，不生成病例。",
+    "evidence": "主文从国家急救系统发布至Health-in-Media Charter结尾均为政策说明；之后页面已进入其他新闻。",
+    "reviewPriority": "高",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "export-summary-not-supported-by-readable-body",
+      "related-content-excluded"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://www.thetidenewsonline.com/2021/04/high-mortality-rate-fg-set-to-unveil-natl-emergency-medical-service/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "6ff91e81d4b9a9589a740c4c559c498fd8258aba5131b6571927d719a3b6e75d"
+    }
+  },
+  "da1da5c65c192fd4": {
+    "articleId": "da1da5c65c192fd4",
+    "title": "Idiocy of Underage Married Girl Suffrage",
+    "url": "https://www.thisdaylive.com/index.php/2021/01/15/idiocy-of-underage-married-girls-suffrage/",
+    "verifiedSourceUrl": "https://www.thisdaylive.com/2021/01/15/idiocy-of-underage-married-girls-suffrage/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；FCT出现在儿童权利法适用范围中",
+    "mentionedFacility": "",
+    "publisherPlace": "媒体办公地未核实",
+    "date": "2021-01-15",
+    "publicationTimestamp": "",
+    "dateEvidence": "仅 URL 日期线索；原页未取得绝对发表日期，待人工核实",
+    "eventDate": null,
+    "signalKind": "other",
+    "screeningCategory": "非目标个案/综合评论",
+    "screeningProposal": "选举与童婚法律评论；国际/全国风险陈述不代表FCT当地病例。",
+    "note": "选举与童婚法律评论；国际/全国风险陈述不代表FCT当地病例。",
+    "evidence": "正文议会提案、25州及FCT法律范围和全球青少年妊娠风险段落。",
+    "reviewPriority": "中",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      },
+      {
+        "code": "NGA-20230404-15-06",
+        "name": "Kwali, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Kwali"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://www.thisdaylive.com/2021/01/15/idiocy-of-underage-married-girls-suffrage/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "c021c751cf971d796125d49042cb0e8821709405403268f60bfb36a2e8bad3d5"
+    }
+  },
+  "e44474110ea91955": {
+    "articleId": "e44474110ea91955",
+    "title": "Of Money Wives and Wife Laundering – THISDAYLIVE",
+    "url": "https://www.thisdaylive.com/index.php/2022/11/03/of-money-wives-and-wife-laundering/",
+    "verifiedSourceUrl": "https://www.thisdaylive.com/2022/11/03/of-money-wives-and-wife-laundering/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Cross River / Obanliku 为历史社会背景；孕产死亡个案具体发生地未知",
+    "mentionedFacility": "Kubwa医院仅见于文末另一非产科追思段落，未命名",
+    "publisherPlace": "Abuja为研讨活动/机构办公地等；不等于母亲死亡地",
+    "date": "2022-11-03",
+    "publicationTimestamp": "",
+    "dateEvidence": "仅 URL 日期线索；原页未取得绝对发表日期，待人工核实",
+    "eventDate": null,
+    "signalKind": "case-context",
+    "screeningCategory": "外地区病例/治疗线索",
+    "screeningProposal": "有历史产时死亡转述，但发生时间及具体地点不明；Obanliku是习俗报道范围，不自动给个案定位。Kubwa是另一人就医故事。",
+    "note": "有历史产时死亡转述，但发生时间及具体地点不明；Obanliku是习俗报道范围，不自动给个案定位。Kubwa是另一人就医故事。",
+    "evidence": "正文Becheve/Obanliku背景、债务用于母亲产时死亡后费用的历史转述，以及文末Kubwa追思段落。",
+    "reviewPriority": "高",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": true,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "historical-case-no-date",
+      "case-location-not-established",
+      "multiple-unrelated-sections"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-02-05",
+        "name": "Girei, Adamawa",
+        "adm1": "Adamawa",
+        "adm2": "Girei"
+      },
+      {
+        "code": "NGA-20230404-04-05",
+        "name": "Awka North, Anambra",
+        "adm1": "Anambra",
+        "adm2": "Awka North"
+      },
+      {
+        "code": "NGA-20230404-09-11",
+        "name": "Ikom, Cross River",
+        "adm1": "Cross River",
+        "adm2": "Ikom"
+      },
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      },
+      {
+        "code": "NGA-20230404-30-11",
+        "name": "Ife Central, Osun",
+        "adm1": "Osun",
+        "adm2": "Ife Central"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://www.thisdaylive.com/2022/11/03/of-money-wives-and-wife-laundering/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "37ed022ea86ed4de7351c4ca9c735fd1f4603d45bab619e7e4e6d55014c102f4"
+    },
+    "spatialEvidence": [
+      {
+        "role": "习俗/社会背景范围",
+        "place": "Obanliku, Cross River",
+        "precision": "LGA"
+      },
+      {
+        "role": "历史孕产死亡发生地",
+        "place": "未确认",
+        "precision": "待核查"
+      },
+      {
+        "role": "另一非产科就医叙述",
+        "place": "Kubwa",
+        "precision": "州/FCT"
+      }
+    ]
+  },
+  "f1b072a29a0f5158": {
+    "articleId": "f1b072a29a0f5158",
+    "title": "TACKLING GENDER - BASED VIOLENCE IN NIGERIA",
+    "url": "https://www.thisdaylive.com/index.php/2021/12/06/tackling-gender-based-violence-in-nigeria/",
+    "verifiedSourceUrl": "https://www.thisdaylive.com/2021/12/06/tackling-gender-based-violence-in-nigeria/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "州/FCT",
+    "eventPlace": "FCT 2016–2019 历史研究；其余为Nigeria全国",
+    "mentionedFacility": "",
+    "publisherPlace": "作者署名Centre for Social Justice, Abuja；非病例地址",
+    "date": "2021-12-06",
+    "publicationTimestamp": "",
+    "dateEvidence": "仅 URL 日期线索；原页未取得绝对发表日期，待人工核实",
+    "eventDate": null,
+    "signalKind": "research-context",
+    "screeningCategory": "历史研究/统计背景",
+    "screeningProposal": "与Punch同作者同研究/论述疑似转载，保留为历史研究背景，不作新事件重复统计。",
+    "note": "与Punch同作者同研究/论述疑似转载，保留为历史研究背景，不作新事件重复统计。",
+    "evidence": "正文FCT 2016–2019预算研究与文末作者/机构署名；与Punch篇逐项对照。",
+    "reviewPriority": "中",
+    "duplicateGroup": "CSJ-SGBV-SRHR-COMMENTARY-2021",
+    "duplicateStatus": "AI疑似同稿/同事件，待人工确认",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "historical-study",
+      "possible-republication"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      },
+      {
+        "code": "NGA-20230404-15-06",
+        "name": "Kwali, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Kwali"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://www.thisdaylive.com/2021/12/06/tackling-gender-based-violence-in-nigeria/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "d9150866ce0e4325171b63c2f5c224b3b245bfde1fa974b2d3c16d9f97d5de3e"
+    }
+  },
+  "f1e4ca13adbd4364": {
+    "articleId": "f1e4ca13adbd4364",
+    "title": "Tinubu launches Nigeria innovative e - CRVS system – The Sun Nigeria",
+    "url": "https://sunnewsonline.com/tinubu-launches-nigerias-innovative-e-crvs-system/",
+    "verifiedSourceUrl": "https://thesun.ng/tinubu-launches-nigerias-innovative-e-crvs-system/",
+    "sourceVerification": "原文已读取",
+    "sourceAccessMethod": "原站 HTTP 正文",
+    "screeningStatus": "AI初筛完成，待人工复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "国家",
+    "eventPlace": "Nigeria；eCRVS启动在 State House, Abuja",
+    "mentionedFacility": "",
+    "publisherPlace": "记者新闻电头Abuja；媒体办公地未核实",
+    "date": "2023-11-08",
+    "publicationTimestamp": "2023-11-08T15:53:06+00:00",
+    "dateEvidence": "原页 datePublished/article:published_time，转换至 Nigeria UTC+1；不是事件发生日",
+    "eventDate": null,
+    "signalKind": "program-context",
+    "screeningCategory": "全国政策/项目背景",
+    "screeningProposal": "与THISDAY人口登记系统报道为同一发布活动；全国孕产妇死亡统计不能归到State House或FCT。",
+    "note": "与THISDAY人口登记系统报道为同一发布活动；全国孕产妇死亡统计不能归到State House或FCT。",
+    "evidence": "正文首段State House eCRVS发布、人口登记系统和全国死亡可报告性说明。",
+    "reviewPriority": "中",
+    "duplicateGroup": "ECRVS-STATE-HOUSE-2023-11-08",
+    "duplicateStatus": "AI疑似同稿/同事件，待人工确认",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": 200,
+      "attempts": [
+        {
+          "url": "https://thesun.ng/tinubu-launches-nigerias-innovative-e-crvs-system/",
+          "status": 200
+        }
+      ],
+      "error": "",
+      "responseSha256": "306cbb18ef3adbd07a33df7573dba7c737b17d7a001683bb98c77ebe27dd2e2e"
+    }
+  },
+  "fe1c90a10ecd3808": {
+    "articleId": "fe1c90a10ecd3808",
+    "title": "NPC boss advocates rights of women , girls",
+    "url": "https://www.peoplesdailyng.com/npc-boss-advocates-rights-of-women-girls/",
+    "verifiedSourceUrl": "https://www.peoplesdailyng.com/npc-boss-advocates-rights-of-women-girls/",
+    "sourceVerification": "原文不可访问",
+    "sourceAccessMethod": "原站访问检查",
+    "screeningStatus": "访问检查完成，需补原文后复核",
+    "reviewedAt": "2026-11-11",
+    "reviewer": "AI辅助原文初筛，待团队复核",
+    "humanConfirmed": false,
+    "humanReviewStatus": "待人工复核",
+    "humanReviewer": "",
+    "humanDecision": "",
+    "humanNotes": "",
+    "precision": "待核查",
+    "eventPlace": "",
+    "mentionedFacility": "",
+    "publisherPlace": "原站TLS失败/机器人验证页，未取得正文",
+    "date": "",
+    "publicationTimestamp": "",
+    "dateEvidence": "未取得可靠发表日期，不从导出时间推断",
+    "eventDate": null,
+    "signalKind": "pending",
+    "screeningCategory": "原文受限",
+    "screeningProposal": "原文仍不可读；不能以World Population Day摘要确认日期、地点或风险事件。",
+    "note": "原文仍不可读；不能以World Population Day摘要确认日期、地点或风险事件。",
+    "evidence": "原链接TLS访问失败；同站规范域名路径仅显示机器人验证，未尝试绕过。",
+    "reviewPriority": "高",
+    "duplicateGroup": "",
+    "duplicateStatus": "未识别到明确重复组，不代表无重复",
+    "containsCaseNarrative": false,
+    "localCaseEvidence": false,
+    "regionCode": "",
+    "verifiedLga": "",
+    "coordinates": null,
+    "flags": [
+      "needs-original-text"
+    ],
+    "originalLocationClues": [
+      {
+        "code": "NGA-20230404-15-02",
+        "name": "Abuja Municipal, Federal Capital Territory",
+        "adm1": "Federal Capital Territory",
+        "adm2": "Abuja Municipal"
+      }
+    ],
+    "sourceAccessAudit": {
+      "httpStatus": null,
+      "attempts": [],
+      "error": "HTTPSConnectionPool(host='www.peoplesdailyng.com', port=443): Max retries exceeded with url: /npc-boss-advocates-rights-of-women-girls/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))",
+      "responseSha256": ""
+    }
+  }
+}

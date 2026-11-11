@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "initialState": "Fct",
+  "studyState": "Fct",
+  "releaseLabel": "2026-11-11 可复核提交版本",
+  "resources": {
+    "facilities": "data/nigeria_facilities_clean.json.gz",
+    "signals": "data/dios_signals.json.gz",
+    "locationChecks": "data/dios_location_checks.json",
+    "screeningBatch": "data/dios_screen_batch.json",
+    "admin": "data/fct_admin_checks.json.gz",
+    "boundaries": "data/fct_lgas.geojson.gz",
+    "population": "data/worldpop_summary.json.gz",
+    "cells": "data/worldpop_cells.json.gz",
+    "routes": "data/fct_routes.json.gz",
+    "hospitalComparison": "data/hospital_location_comparison.json"
+  },
+  "docsUrl": "https://github.com/Taoo2025/taoo2025.github.io/blob/main/carelink-source/docs/提交候选版_使用与数据调整.md"
+}

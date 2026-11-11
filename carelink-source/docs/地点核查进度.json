@@ -1,0 +1,51 @@
+{
+  "updatedAt": "2026-11-11",
+  "newBatchSize": 41,
+  "newBatchStatusCounts": {
+    "原文已读取": 39,
+    "原文不可访问": 2
+  },
+  "allCandidateCount": 50,
+  "allStatusCounts": {
+    "原文已读取": 47,
+    "原文不可访问": 3
+  },
+  "newBatchCategoryCounts": {
+    "全国政策/项目背景": 20,
+    "历史研究/统计背景": 6,
+    "FCT项目/机构线索": 4,
+    "外地区病例/治疗线索": 4,
+    "非目标个案/综合评论": 5,
+    "原文受限": 2
+  },
+  "newBatchHighPriority": 14,
+  "duplicateCandidateGroups": {
+    "CSJ-SGBV-SRHR-COMMENTARY-2021": [
+      "2b39a703e1bda28e",
+      "f1b072a29a0f5158"
+    ],
+    "ECRVS-STATE-HOUSE-2023-11-08": [
+      "250d562525d0d311",
+      "f1e4ca13adbd4364"
+    ],
+    "NAN-NHIA-OHIRI-2026-03-13": [
+      "32babba56f4ea47e",
+      "8894d52db951bf21"
+    ],
+    "NHW-WOMENS-HEALTH-2025-05-28": [
+      "4e527528bcb18718",
+      "77f2a4d6614581a1"
+    ],
+    "UNFPA-LANDSCAPE-LAUNCH-2022-09-08": [
+      "3dc9fa268bed6cf5",
+      "c42df9f3481ed4d6"
+    ]
+  },
+  "humanConfirmedLocalCases": 0,
+  "humanReviewRequired": true,
+  "scope": "FCT位置核查候选50篇；不是全部Nigeria 262篇，也不是DIOS550篇全量筛查",
+  "unresolvedArticleIds": [
+    "a344e6e48b338021",
+    "fe1c90a10ecd3808"
+  ]
+}
