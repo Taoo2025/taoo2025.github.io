@@ -1,0 +1,15 @@
+{
+  "verifiedAt": "2026-11-11",
+  "commit": "cd84ae160dd37bc4a8b8ea899372195f02754994",
+  "url": "https://taoo2025.github.io/carelink/",
+  "status": "live-http-and-data-verified",
+  "facilities": 46146,
+  "fct": 576,
+  "articles": 550,
+  "screenedBatch": 41,
+  "locationComparisons": 6,
+  "populationCells": 7067,
+  "routes": 1698,
+  "configuration": "runtime JSON",
+  "sourceUrl": "https://github.com/Taoo2025/taoo2025.github.io/tree/main/carelink-source"
+}
