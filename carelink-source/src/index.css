@@ -414,3 +414,56 @@ button:focus-visible,a:focus-visible,select:focus-visible,input:focus-visible {o
 
 .app-shell{grid-template-rows:auto auto auto minmax(650px,1fr) auto;}
 .data-workbench>label{display:block;margin:10px 0}.data-workbench>label input,.data-workbench>label select{max-width:100%;padding:7px}.data-workbench article label{display:block;margin:8px 0}
+/* Desktop hospital workspace */
+@media (min-width: 1001px) {
+  .app-shell {
+    display: block;
+    height: auto;
+    min-height: 100vh;
+    overflow: visible;
+  }
+
+  .workspace {
+    display: grid;
+    grid-template-columns: 290px minmax(0, 1fr) 330px;
+    height: 100vh;
+    height: 100dvh;
+    min-height: 0;
+    overflow: hidden;
+  }
+
+  .workspace > .panel {
+    height: 100%;
+    min-height: 0;
+    overflow-y: auto;
+    overscroll-behavior-y: contain;
+  }
+
+  .workspace > .map-container {
+    height: 100%;
+    min-height: 0;
+    overflow: hidden;
+  }
+
+  .workspace .leaflet-container {
+    min-height: 0 !important;
+  }
+}
+.map-reset-button {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 1000;
+  padding: 10px 14px;
+  border: 1px solid #c4d3d1;
+  border-radius: 8px;
+  background: white;
+  color: #153c38;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 15%);
+}
+
+.map-reset-button:hover {
+  background: #f0f7f5;
+}
