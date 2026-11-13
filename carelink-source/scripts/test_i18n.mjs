@@ -1,0 +1,10 @@
+import assert from 'node:assert/strict';
+import {translate,chinese} from '../src/i18n/translate.js';
+assert.equal(translate('医院与转诊'),'Hospitals & referrals');
+assert.equal(translate('需补证据'),'More evidence needed');
+assert.equal(translate('46146 条已载入记录；当前地区 576 条。'),'46146 records loaded; 576 in the selected state.');
+assert.equal(translate(' · 审核：待人工复核 · 优先级高'),' · Review: Human review pending · Priority: High');
+assert.equal(translate('National Hospital Abuja'),'National Hospital Abuja');
+assert.equal(translate('自定义证据内容'),'自定义证据内容');
+assert.equal(chinese('Health facilities'),'医疗机构');
+console.log('PASS: UI labels, dynamic counts, review badges and original evidence/name preservation.');

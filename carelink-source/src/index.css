@@ -10,6 +10,9 @@
   color: #17202a;
   background: #f4f6f8;
 }
+.language-switch{display:flex;justify-content:flex-end;gap:4px;padding:8px 24px;background:#fff;border-bottom:1px solid #dce5e2}
+.language-switch button{padding:7px 14px;border:1px solid #9bb4ac;border-radius:5px;background:#fff;color:#153c38;cursor:pointer}
+.language-switch button[aria-pressed=true]{background:#153c38;color:#fff}
 
 * {
   box-sizing: border-box;
