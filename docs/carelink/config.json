@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "initialState": "Fct",
   "studyState": "Fct",
-  "releaseLabel": "2026-11-11 可复核提交版本",
+  "releaseLabel": "2026-11-13 Nigeria全量AI核查版",
   "resources": {
     "facilities": "data/nigeria_facilities_clean.json.gz",
     "signals": "data/dios_signals.json.gz",
-    "locationChecks": "data/dios_location_checks.json",
+    "locationChecks": "data/dios_location_checks.json.gz",
     "screeningBatch": "data/dios_screen_batch.json",
     "admin": "data/fct_admin_checks.json.gz",
     "boundaries": "data/fct_lgas.geojson.gz",

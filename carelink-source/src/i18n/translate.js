@@ -231,7 +231,21 @@ FCT 级已读取原文的项目背景报道|FCT-wide context reports with readab
 人。|people.
 当前|Current
 ：查看医院与路由|: view facilities and routes`;
-const fragments=`%）；10 km 内|%); within 10 km: 
+const fragments=`2026-11-13 Nigeria全量AI核查版|2026-11-13 Nigeria source-review release
+AI原文核查结果 · 待人工复核|AI source review · Human review pending
+核查范围：|Review coverage:
+原文访问：|Source access:
+AI处理建议|AI recommendation
+全部建议|All recommendations
+保留背景建议|Suggested context
+排除出FCT病例图层建议|Suggested exclusion from FCT case layer
+补证据建议|More evidence required
+外地区病例/转诊线索|Case / referral clues outside FCT
+页面不匹配或正文不足|Page mismatch / insufficient article body
+AI核查覆盖当前Nigeria导出，不代表独立事实确认。保留背景、排除和外地区线索均不自动进入FCT病例统计。|AI review covers the Nigeria-tagged export, not independent fact confirmation. Context, exclusions and out-of-area clues do not automatically enter FCT case counts.
+查看逐篇核查与未解决事项|View article-by-article findings and unresolved items
+篇；页面不匹配或正文不足|articles; page mismatch / insufficient body:
+%）；10 km 内|%); within 10 km: 
 km / 假设|km / assumed
 km；假设行程|km; assumed travel time
 · PDP 记录|· PDP record

@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-13",
+  "scope": "Nigeria字段262篇；其他国家288篇不在本轮范围",
+  "total": 262,
+  "sourceStatusCounts": {
+    "原文已读取": 183,
+    "页面不匹配或正文不足": 3,
+    "原文不可访问": 76
+  },
+  "recommendationCounts": {
+    "context": 151,
+    "exclude": 18,
+    "more-evidence": 81,
+    "case-clue": 12
+  },
+  "humanConfirmations": 0,
+  "patientCoordinatesCreated": 0,
+  "candidateDuplicateGroups": 21,
+  "previousQueue": 50,
+  "newlyCovered": 212
+}

@@ -32,3 +32,6 @@ export function importEdits(payload,baseline,signalRows){
  if(!writes.length)throw Error('未找到可导入的修正、审核、DIOS数据或配置');const before=writes.map(([k])=>[k,localStorage.getItem(k)]);try{for(const [k,v] of writes)localStorage.setItem(k,JSON.stringify(v))}catch{for(const [k] of before)localStorage.removeItem(k);for(const [k,v] of before)if(v!==null)localStorage.setItem(k,v);throw Error('浏览器存储空间不足，导入未应用；请先导出备份')}notifyData();return writes.length
 }
 export function downloadJson(name,value){const u=URL.createObjectURL(new Blob([JSON.stringify(value,null,2)],{type:'application/json'}));const a=document.createElement('a');a.href=u;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(u),1000)}
+
+// Keep location history separate from individual reviews during team export.
+export function storedLocationReviews(storage=localStorage){const rows=[];for(let i=0;i<storage.length;i++){const key=storage.key(i);if(!key?.startsWith('dios-location-')||key==='dios-location-history')continue;try{const v=JSON.parse(storage.getItem(key));if(v&&!Array.isArray(v)&&typeof v.articleId==='string'&&key==='dios-location-'+v.articleId)rows.push(v)}catch{/* malformed local record excluded */}}return rows}

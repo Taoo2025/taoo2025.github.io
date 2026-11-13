@@ -45,7 +45,7 @@ Users can correct facility locations/classifications with reviewer, source and r
 | Organizer-provided PDP export | Selected FCT historical indicators | Maternal-health background |
 | Organizer-channel DIOS export | 1,330 rows → 550 articles; 262 tagged Nigeria | Source-linked signals and manual evidence review |
 
-The location-review queue contains 50 articles (47 sources read, 3 inaccessible). The additional published screening batch contains 41 articles (39 readable, 2 inaccessible); these are overlapping workflow scopes, not counts to add together. AI screening is pending human confirmation. The published baseline has **no qualifying confirmed LGA case events**; this indicates an evidence gap, not an absence of events. Six facility location anomalies have comparison records; no automatic coordinate correction was made.
+The current AI source-review queue covers all **262 Nigeria-tagged articles**: **183 readable bodies, 3 page mismatches/insufficient bodies and 76 inaccessible sources**. Recommendations: 151 context, 18 exclusions from the FCT case layer, 81 evidence gaps and 12 out-of-area case/referral clues. These dimensions overlap and should not be added. The earlier 50-article queue and 41-article screening batch are historical subsets. There are 21 duplicate-report/event candidate groups; inaccessible candidates may be linked only by title. Full-body independent fact-checking and clinical verification are not claimed. All records remain pending human confirmation; no patient coordinates or confirmed FCT events were generated. See [the complete article review and unresolved evidence](docs/DIOS_全量原文核查.md). Six facility location anomalies retain comparison records without automatic coordinate correction.
 
 ## Data sources and provenance
 
@@ -119,6 +119,8 @@ The release has passed production builds, data/workflow validation and bilingual
 
 ## 中文项目说明
 
+2026-11-13 更新：已对262篇Nigeria文章登记AI核查与建议；183篇取得正文、3篇页面异常、76篇仍需原文。人工确认仍为0，详细证据缺口见全量核查文档。
+
 CareLink 是面向**尼日利亚 FCT**的孕产健康转诊规划与信号核查原型。真实医院数据提供机构与登记层级，Geofabrik 路网支持从低级机构向更高级机构寻找候选、按道路距离排序；WorldPop 与 PDP 提供人口和历史健康背景；DIOS 报道经过原文、地点角色、定位精度和重复事件核查后，由人工决定用途。
 
 系统形成“选择机构 → 核查位置与层级 → 比较道路候选 → 人工选择并保存方案”的流程，并可关联 DIOS 证据。**已复核方案不代表医院已接收或患者已完成转运。** 当前未知的专科能力、床位、接诊状态和真实交通未被编造。报道提到医院或 Abuja 不会自动变成病例坐标；只能确认到区的证据保留区级精度。
@@ -126,3 +128,4 @@ CareLink 是面向**尼日利亚 FCT**的孕产健康转诊规划与信号核查
 全国其他地区目前支持机构浏览，不能当作具有 FCT 同等的联合分析能力。人口覆盖为模型人口的直线邻近分析，不代表患者数量或道路时间覆盖。人工记录保存在各自浏览器，需通过团队 JSON 共享；位置或层级改变后，旧路线/覆盖暂停，需重算。
 
 本仓库包含运行现有网页所需的发布数据，但未包含 CASA 的全部原始大文件，也不会包含个人浏览器中的审核记录。上方提供完整 clone 和本地运行步骤。此版本作为数据受限条件下可解释、可追溯的黑客松原型提交；不声称已经验证临床效果或满足所有官方提交要求。
+
